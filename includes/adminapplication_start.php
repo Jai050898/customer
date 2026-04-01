@@ -3,17 +3,24 @@ ob_start();
 session_start();
 error_reporting(E_ALL^E_NOTICE);
 ini_set("display_errors", "On");
-//echo getcwd();exit;
-/*********** Defining the Constants for the Whole Site **********/
-if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on')
+
+if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') {
     $http = "https://";
-else
+} else {
     $http = "http://";
+}
+
 $root = $_SERVER['DOCUMENT_ROOT'];
 
-// ✅ Fixed for Docker + PHP 5.6
+// Compatible with old PHP
+if (isset($_SERVER['SERVER_NAME'])) {
+    $serverName = $_SERVER['SERVER_NAME'];
+} else {
+    $serverName = 'localhost';
+}
+
 define('SITEPATH', '/var/www/html');
-define('SITEURL', $http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
+define('SITEURL', $http . $serverName);
 
 //require_once("recaptchalib.php");
 define('SITENAME','programmer');
