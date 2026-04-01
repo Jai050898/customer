@@ -20,7 +20,9 @@ if (getenv('SITEPATH')) {
 }
 
 // Fix SERVER_NAME
-if (isset($_SERVER['SERVER_NAME'])) {
+if (isset($_SERVER['HTTP_HOST'])) {
+    $serverName = $_SERVER['HTTP_HOST'];
+} elseif (isset($_SERVER['SERVER_NAME'])) {
     $serverName = $_SERVER['SERVER_NAME'];
 } else {
     $serverName = 'localhost';
