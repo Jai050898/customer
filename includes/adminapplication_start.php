@@ -38,7 +38,7 @@ $smarty = new Smarty;
 $smarty->template_dir = 'templates/';
 $smarty->compile_dir = 'templates_c/';
 $smarty->assign('sitetitle',SITETITLE);
-$smarty->assign('siteurl',SITEURL);
+$smarty->assign('siteurl',"http://143.244.167.57:8080");
 $smarty->assign('site_path',SITEPATH);
 
 $arrayYesNo=array('1'=>'Yes', '0'=>'No');
