@@ -13,8 +13,19 @@ else
 $root = $_SERVER['DOCUMENT_ROOT'];
 
 // ✅ PHP 5.6 Compatible
-$siteUrl = getenv('SITEURL') ? getenv('SITEURL') : ($http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
-$mainSiteUrl = getenv('MAINSITEURL') ? getenv('MAINSITEURL') : ($http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
+$serverName = isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost';
+
+if (getenv('SITEURL')) {
+    $siteUrl = getenv('SITEURL');
+} else {
+    $siteUrl = $http . $serverName;
+}
+
+if (getenv('MAINSITEURL')) {
+    $mainSiteUrl = getenv('MAINSITEURL');
+} else {
+    $mainSiteUrl = $http . $serverName;
+}
 
 // ✅ These were MISSING — added now!
 define('SITEPATH', '/var/www/html');
