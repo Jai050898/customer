@@ -1,13 +1,9 @@
 <?php
-	global $dbArray;
-		/*$dbArray= array("Hname" => "autorepairmarketing.com",
-						"UName" => "navigato_user",
-						"Pass" => "gzDblc&89Voq",
-						"dbName" => "navigato_programmer");*/
-        $dbArray= array("Hname" => "localhost",
-                                        "UName" => "automark_pages",
-                                        "Pass" => "J(X)LXeETZA}",
-                                        "dbName" => "automark_pages");
-        
-        //echo "<pre>";print_r($dbArray);
+global $dbArray;
+$dbArray = array(
+    "Hname"  => getenv('DB_HOST')     ? getenv('DB_HOST')     : "customer-db",
+    "UName"  => getenv('DB_USERNAME') ? getenv('DB_USERNAME') : "automark_custusr",
+    "Pass"   => getenv('DB_PASSWORD') ? getenv('DB_PASSWORD') : "rootpwd",
+    "dbName" => getenv('DB_DATABASE') ? getenv('DB_DATABASE') : "automark_mm_cust"
+);
 ?>
