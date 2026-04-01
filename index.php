@@ -40,9 +40,9 @@ if(isset($_REQUEST['hid_type']) && $_REQUEST['hid_type'] == 'Reg')
 			$_SESSION['User']['sueveycnt'] = $sueveycnt[0]['maxorder'];
 			
 			//Code for YouSendIt
-			require_once('/home/automark/public_html/customer/yousendit/sample/Authentication.php');
-			require_once('/home/automark/public_html/customer/yousendit/sample/include/RestTransport.php');
-			require_once('/home/automark/public_html/customer/yousendit/sample/include/ResponseEntities.php');
+			require_once(SITEPATH.'/yousendit/sample/Authentication.php');
+			require_once(SITEPATH.'/yousendit/sample/include/RestTransport.php');
+			require_once(SITEPATH.'/yousendit/sample/include/ResponseEntities.php');
 			$apikey = trim("b42pwy7jxjjgq9dask86wc6m"," ");
 			$_SESSION['sApp'] = $apikey;
 			$host = "https://test2-api.yousendit.com";
