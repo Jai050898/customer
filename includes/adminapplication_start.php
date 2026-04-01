@@ -18,7 +18,7 @@ if (isset($_SERVER['SERVER_NAME'])) {
 } else {
     $serverName = 'localhost';
 }
-
+ 
 define('SITEPATH', '/var/www/html');
 define('SITEURL', $http . $serverName);
 

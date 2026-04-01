@@ -12,9 +12,33 @@ if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on')
 else
     $http = "http://";
 
-$root = realpath(getenv('SITEPATH') ?: dirname(__DIR__));
-$siteUrl = getenv('SITEURL') ?: ($http . ($_SERVER['SERVER_NAME'] ?? 'localhost'));
-$mainSiteUrl = getenv('MAINSITEURL') ?: ($http . ($_SERVER['SERVER_NAME'] ?? 'localhost'));
+// Fix SITEPATH
+if (getenv('SITEPATH')) {
+    $root = realpath(getenv('SITEPATH'));
+} else {
+    $root = dirname(__DIR__);
+}
+
+// Fix SERVER_NAME
+if (isset($_SERVER['SERVER_NAME'])) {
+    $serverName = $_SERVER['SERVER_NAME'];
+} else {
+    $serverName = 'localhost';
+}
+
+// Fix SITEURL
+if (getenv('SITEURL')) {
+    $siteUrl = getenv('SITEURL');
+} else {
+    $siteUrl = $http . $serverName;
+}
+
+// Fix MAINSITEURL
+if (getenv('MAINSITEURL')) {
+    $mainSiteUrl = getenv('MAINSITEURL');
+} else {
+    $mainSiteUrl = $http . $serverName;
+}
 
 define('SITEPATH', rtrim($root, '/\\'));
 define('SITEURL', rtrim($siteUrl, '/'));
