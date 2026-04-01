@@ -1,0 +1,42 @@
+<?php
+require_once("includes/application_start.php");
+require_once("includes/login_check.php");
+$Page = 'account';
+ $smarty->assign('breadcrumb','Add Staff');
+   $usr 		= new General;
+/*****section to insert the data*****/
+      
+if(isset($_REQUEST['hid_key']) &&  $_REQUEST['hid_key'] !='')
+{
+				$PoFields = array();
+				$PoFields['first_name'] = $_REQUEST['Log']['first_name'];
+				$PoFields['last_name'] = $_REQUEST['Log']['last_name'];
+				$PoFields['email'] = $_REQUEST['Log']['email'];
+				$PoFields['user_name'] = $_REQUEST['Log']['user_name'];
+				$PoFields['password'] = md5($_REQUEST['Log']['password']);
+                                $PoFields['company_name'] = $_REQUEST['Log']['company_name'];
+                                $PoFields['city'] = $_REQUEST['Log']['city'];
+                                $PoFields['is_staff'] = 'Y';
+                                $PoFields['xml_id'] = $_REQUEST['hid_key'];
+                                if($error == "") {
+                                    $UnameCnt = $Gen->TotalRows('tbl_users',"user_name = '".$PoFields['user_name']."' AND user_id != '".$_REQUEST['user_id']."' ");
+                                    //echo $UnameCnt;
+                                                if($UnameCnt == 0){
+                                                  $insItems	= $Gen->InsertQry('tbl_users',$PoFields);
+                                                    $error ="Inserted sucessfully";  
+                                                    } 
+                                }
+                                else{
+                                    $error ="user name already exists.";
+                                    
+                                }
+                                        
+                                                               
+                                
+ 
+	//header("Location:".SITEURL.'/add-staff.php');
+}
+$smarty->assign('Page',$Page);
+$smarty->assign('error',$error);
+$smarty->display('add-staff.tpl');
+?>

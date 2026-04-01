@@ -1,0 +1,47 @@
+services:
+  web:
+    build: .
+    container_name: customer-app
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html:cached
+      - ./docker/php.ini:/usr/local/etc/php/php.ini
+    environment:
+      DB_HOST: db
+      DB_USER: automark_custusr
+      DB_PASSWORD: m#184DCuL~6e
+      DB_NAME: automark_mm_cust
+      SITEPATH: /var/www/html
+      SITEURL: http://localhost:8080
+      MAINSITEURL: http://localhost
+    depends_on:
+      - db
+
+  db:
+    image: mysql:5.7
+    container_name: customer-db
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpwd
+      MYSQL_DATABASE: automark_mm_cust
+      MYSQL_USER: automark_custusr
+      MYSQL_PASSWORD: m#184DCuL~6e
+    volumes:
+      - db_data:/var/lib/mysql
+
+  phpmyadmin:   
+    image: phpmyadmin/phpmyadmin
+    container_name: customer-pma
+    restart: always
+    ports:
+      - "8081:80"
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: rootpwd
+    depends_on:
+      - db
+
+volumes:
+  db_data:

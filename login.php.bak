@@ -1,0 +1,50 @@
+<?php
+require_once("includes/application_start.php");
+$Page = 'Login';
+if(isset($_REQUEST['hid_type']) && $_REQUEST['hid_type'] == 'Reg')
+{
+	//echo "<pre>";print_r($_REQUEST);exit;
+	$UsrDet				= $Gen->GetSelWhere('tbl_users','user_id,email,user_name,password,Last_Login_Date,status'," user_name = '".$_REQUEST['Log']['user_name']."' AND password = '".base64_encode($_REQUEST['Log']['password'])."'");
+	$cnt			= count($UsrDet);
+	if($cnt != 0)
+	{
+		if($UsrDet[0]['status'] == 'A')
+		{
+			$_SESSION['User']['UID']				= $UsrDet[0]['user_id'];
+			$_SESSION['User']['Email']				= $UsrDet[0]['email'];
+			$_SESSION['User']['user_name']			= $UsrDet[0]['user_name'];
+			$_SESSION['User']['Last_Login_Date']	= $UsrDet[0]['Last_Login_Date'];
+			//echo "<pre>";print_r($_COOKIE);exit;
+			//define('WP_USE_THEMES', true);
+			//require('blog/wp-login.php');
+			//require_once(SITEPATH."/blog/");
+			//wp_setcookie($UsrDet[0]['user_id'], $UsrDet[0]['password'], $already_md5 = false, $home = '', $siteurl = '', $remember = true);
+			//echo "<pre>";print_r($_COOKIE);exit;
+			$WPUsrDet				= $Gen->GetSelWhere('wp_users','user_pass'," user_login = '".$UsrDet[0]['user_name']."'");
+			$WIKIUsrDet				= $Gen->GetSelWhere('wikiuser','user_id,user_name'," user_name = '".ucfirst($UsrDet[0]['user_name'])."'");
+			//echo "<pre>";print_r($WIKIUsrDet);exit;
+			setcookie('rsvp_wikiUserName',$WIKIUsrDet[0]['user_name']);
+			setcookie('rsvp_wikiUserID',$WIKIUsrDet[0]['user_id']);
+			$_SESSION['wsUserID'] = $WIKIUsrDet[0]['user_id'];
+			$_SESSION['wsUserName'] = $WIKIUsrDet[0]['user_name'];
+
+			require("blog/wp-load.php");
+			if(($UsrDet[0]['user_name'])&&($WPUsrDet[0]['user_pass'])){
+			wp_setcookie($UsrDet[0]['user_name'], $WPUsrDet[0]['user_pass'], $already_md5 = true, $home = '', $siteurl = '');
+
+			}
+			//$_SESSION['wsLoginToken'] = '182e74851698ed5567592add0359d4ea';
+			
+			//header('Location:'.SITEURL.'/blog/wp-login.php?u='.$UsrDet[0]['user_name'].'&p='.base64_encode($WPUsrDet[0]['user_pass']));
+			//header('Location:'.SITEURL.'/dashboard.php');
+		}
+		else
+			$Responce	= 'Inactive Account';
+	}
+	else
+		$Responce	= 'Invalid login Details';
+}
+$smarty->assign('Responce',$Responce);
+$smarty->assign('Page',$Page);
+$smarty->display('login.tpl');
+?>

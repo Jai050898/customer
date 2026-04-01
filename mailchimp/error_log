@@ -1,0 +1,2 @@
+[18-Feb-2013 02:10:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/navigato/public_html/mailchimp/test2.php:22) in /home/navigato/public_html/mailchimp/test2.php on line 91
+[18-Feb-2013 02:10:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/navigato/public_html/mailchimp/test2.php:22) in /home/navigato/public_html/mailchimp/test2.php on line 95

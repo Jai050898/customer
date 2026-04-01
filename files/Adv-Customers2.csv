@@ -1,0 +1,48 @@
+"cust_ID","mr_ms","firstname","lastname","spousename","company","address","city","state","zip","CustCategory","BalanceDue","CreditAmt","AverageRO","YTDTotal","LifeTotal","pricelevel","laborlevel","creditOK","chargeOK","remarks","ResaleNum","tax1","tax2","tax3","tax4","tax5","tax6","tax7","tax8","tax9","tax10","SpecialOrders","followUp","EmailAddress","FeeAssessmentDate","CurrentFeeAmount","NoLateFee","NewCustFollowUpDate","LastVisited","FirstVisited","LifetimeVisits"
+23243,,"MEGHAN","DAVIS",,"DAVIS, MEGHAN","1501 CARRIGAN","DENTON","TX",-76207,,,,,,234.96,,,,,,,,,,,,,,,,,,,"davis1501@verizon.net",,,,,09/08/12,,5
+16604,,"EMILY","SAMFORD",,"SAMFORD, EMILY"," "," "," "," ",,,,,,467.69,,,,,,,,,,,,,,,,,,,,,,,,02/07/06,,3
+28659,,"TRAVIS","COX",,"COX, TRAVIS","510 WOODFORD LN","DENTON","TX",-76209,,,,,,109.45,,,,,,,,,,,,,,,,,,,,,,,,01/17/13,,3
+24292,,"MONICA","BLAYLOCK",,"BLAYLOCK, MONICA","4405 SENOMA","ARGYLE","TX",-76226,,,,,,410.06,,,,,,,,,,,,,,,,,,,,,,,,12/08/12,,2
+20334,,"KATHERINE","TULLOS",,"TULLOS, KATHERIEN","716 WEST MULBERRY 5","DENTON","TX",-76201,,,,,,1561.82,,,,,,,,,,,,,,,,,,,,,,,,12/15/07,,4
+26678,,"MATTHEW","WOOD",,"WOOD, MATTHEW","1103 BERNARD ST APT 814","DENTON","TX",-76201,,,,,,348.5,,,,,,,,,,,,,,,,,,,"n/a",,,,,08/17/11,,1
+25358,,"TENILLE","SHADE",,"SHADE, TENILLE","3205 HORNBEAM ST","ARGYLE","TX","76226-2477",,,,,,43.62,,,,,,,,,,,,,,,,,,,,,,,,10/18/10,,1
+16991,,"CHRIS","SHARO",,"SHARO, CHRIS"," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+20331,,"TODD","BECK",,"BECK, TODD","3900 GRAPEVINE MILLS PKY 1331","GRAPEVINE","TX",-76051,,,,,,1360.38,,,,,,,,,,,,,,,,,,,,,,,,04/27/07,,1
+16782,,"ANGIE","EKURI",,"EKURI, ANGIE"," "," "," "," ",,,,,,75.22,,,,,,,,,,,,,,,,,,,,,,,,05/05/05,,1
+19848,,"MAIA","CUDHEA",,"CUDHEA, MAIA","2721 SAN FELIPE","DENTON","TX",-76210,,,,,,605.71,,,,,,,,,,,,,,,,,,,,,,,,03/04/11,,2
+26082,,"NATHAN","MEYER",,"MEYER, NATHAN","1224 NORA LN ","DENTON","TX",-76210,,,,,,3180.4,,,,,,,,,,,,,,,,,,,"nw_meyer@hotmail.com",,,,,03/05/13,,6
+26449,,"JACK","CRISS",,"CRISS, JACK",,"DENTON","TX","     -    ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+27756,,"DAVID","GUITTIEREZ",,"GUITTIEREZ, DAVID","2060 STOCKBRIDGE RD #8201","DENTON","TX",-76208,,,,,,94.32,,,,,,,,,,,,,,,,,,,,,,,,04/21/12,,1
+13831,,"KRYSTAL","MORROW",,"MORROW, KRYSTAL",,,"  ","     -    ",,,,,,37.26,,,,,,,,,,,,,,,,,,,"morrowk@hotmail.com",,,,,01/30/04,,3
+24436,,"DEBORAH","SAVARESE",,"SAVARESE, DEBORAH","1807 KENDOLPH DR","DENTON","TX",-76205,,,,,,866.95,,,,,,,,,,,,,,,,,,,"txsailgirl@aol.com",,,,,07/14/10,,3
+11521,,"MICHAEL","STEWART",,"STEWART, MICHAEL","1204 W MULBERRY ST APT A","DENTON","TX","76201-5805",,,,,,420.94,,,,,,,,,,,,,,,,,,,,,,,,06/24/02,,1
+26298,,"IRMA WILLIAMS","ST JAMES CHURC",,"ST JAMES CHURC, IRMA WILLIAMS",,"DENTON","TX","     -    ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+22510,,"CHARLES","WARD",,"WARD, CHARLES","621 N PETERS AVE","NORMAN","OK","73069-7865",,,,,,460.48,,,,,,,,,,,,,,,,,,,,,,,,11/18/08,,1
+26681,,"MARGIE","HELMS",,"HELMS, MARGIE","13531 NEILS LAN","HOLLAND","TX",-76534,,,,,,161.95,,,,,,,,,,,,,,,,,,,,,,,,08/13/11,,1
+14366,,"CARLY","HENDRIX",,"HENDRIX, CARLY","440 17TH ST SW","PARIS","TX","75460-5596",,,,,,764.4,,,,,,,,,,,,,,,,,,,,,,,,04/18/05,,3
+12355,,,"CHRYSLER",,"CHRYSLER, "," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,11/25/02,,0
+21306,,"RYAN","OGBEIDE",,"OGBEIDE, RYAN","6715 SILVERCREST DRIVE","ARLINGTON","TX",-76002,,,,,,43.84,,,,,,,,,,,,,,,,,,,,,,,,12/17/07,,1
+20187,,"HALEY","MYERS",,"MYERS, HALEY","2892 MARSHALL RD","DENTON","TX",-76207,,,,,,12.73,,,,,,,,,,,,,,,,,,,,,,,,03/20/07,,1
+4801,,"STEVEN","BELCHER",,"BELCHER, STEVEN"," "," "," "," ",,,,,,27.81,,,,,,,,,,,,,,,,,,,,,,,,10/24/96,,1
+17832,,"ANDREW","HALABY",,"HALABY, ANDREW",,,"  ","     -    ",,,,,,3845.4,,,,,,,,,,,,,,,,,,,,,,,,08/18/07,,3
+25289,,"TIM","MONZINGO",,"MONZINGO, TIM","1300 EGAN ST","DENTON","TX",-76201,,,,,,996.99,,,,,,,,,,,,,,,,,,,,,,,,11/17/10,,2
+19011,,,"DIMARCO",,"DIMARCO, "," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+25279,,"RACHEL","STANLEY",,"STANLEY, RACHEL","710 MAGNOILA","DENTON","TX",-76201,,,,,,813.77,,,,,,,,,,,,,,,,,,,"racheln_22@hotmail.com",,,,,10/05/10,,1
+12477,,"KATHLEEN","INNES",,"INNES, KATHLEEN","1618 SHADOW CREST DR","DENTON","TX","76210-1915",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,01/06/03,,0
+7751,,"ANN","FABRIZIO",,"FABRIZIO, ANN","1716 ANDOVER LN","DENTON","TX","76210-3050",,,,,,681.32,,,,,,,,,,,,,,,,,,,,,,,,09/09/00,,4
+21468,,"THELMA","YATES",,"YATES, THELMA","8625 WEBB ","PONDER","TX",-76259,,,,,,94.33,,,,,,,,,,,,,,,,,,,,,,,,02/06/08,,1
+25468,,"MELINDA","KING",,"KING, MELINDA","5213 PAULIE DR","DENTON","TX",-76208,,,,,,179.92,,,,,,,,,,,,,,,,,,,,,,,,11/06/10,,1
+16426,,"HOUSTON","BINKLEY",,"BINKLEY, HOUSTON","3643 WESSEX CT","DENTON","TX","76210-8807",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,02/18/05,,1
+30226,,"NELL","GANDEE",,"GANDEE, NELL","2320 JACQUELIN","DENTON","TX",-76205,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,02/04/13,,1
+12891,,,"SAMPLE",,"SAMPLE, "," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,04/09/03,,0
+19557,,,"CHEADLE",,"CHEADLE, "," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+27393,,"ROBERT","PRESTON",,"PRESTON, ROBERT","1321 LINDENDR","DENTON","TX",-76209,,,,,,1210.98,,,,,,,,,,,,,,,,,,,,,,,,02/02/13,,4
+23131,,"LAUREN","BARNES",,"BARNES, LAUREN","1310 SCRIPTURE  #1204","DENTON","TX",-76201,,,,,,2420.33,,,,,,,,,,,,,,,,,,,"barnzie07@yahoo.com",,,,,12/28/11,,9
+26876,,"SHANE","SIZEMORE",,"SIZEMORE, SHANE","MOVED",,"  ","     -    ",,,,,,157.62,,,,,,,,,,,,,,,,,,,"n/a",,,,,12/03/11,,1
+2328,,"MARSHALL","BERMAN",,"BERMAN, MARSHALL","1915 LESLIE ST","DENTON","TX","76205-5911",,,,,,2435.45,,,,,,,,,,,,,,,,,,,,,,,,12/17/11,,6
+23747,,"ROBERT","ORTHWEIN",,"ORTHWEIN, ROBERT","11267 PONDVIEW DR APT B103","WELLINGTON","FL",-33414,,,,,,146.54,,,,,,,,,,,,,,,,,,,,,,,,10/03/09,,1
+3588,,,"TOMMY GONE",,"TOMMY GONE,"," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+16816,,"SUBHRANSU","MISHRA",,"MISHRA, SUBHRANSU"," "," "," "," ",,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0
+29669,,"HAIXIANG","XEU",,"XEU, HAIXIANG","1003 EAGEL DR APT 132","DENTON","TX",-76201,,,,,,5.41,,,,,,,,,,,,,,,,,,,,,,,,11/21/12,,1
+26101,,"RICH","HEINEMAN",,"HEINEMAN, RICH","3505 HUDSONWOOD DR 10105","DENTON","TX",-76208,,,,,,831.02,,,,,,,,,,,,,,,,,,,"rich@isellresults.com",,,,,04/02/11,,1
+13180,,"KEVIN","MCSHAN",,"MCSHAN, KEVIN"," "," "," "," ",,,,,,2567.3,,,,,,,,,,,,,,,,,,,,,,,,06/08/04,,4

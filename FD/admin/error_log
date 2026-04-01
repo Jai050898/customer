@@ -1,0 +1,2 @@
+[19-Nov-2012 07:22:40] PHP Fatal error:  Smarty error: [in manage-shops.tpl line 77]: syntax error: unclosed tag \{elseif} (opened line 77). (Smarty_Compiler.class.php, line 317) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 07:28:59] PHP Warning:  Smarty error: unable to read resource: "add-shop.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093

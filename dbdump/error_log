@@ -1,0 +1,2 @@
+[18-Mar-2013 06:30:13] PHP Parse error:  syntax error, unexpected $end in /home/navigato/public_html/dbdump/customers.php on line 84
+[18-Mar-2013 06:30:53] PHP Warning:  fopen(/home/navigato/public_html/files/Adv-Customers2.csv) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/navigato/public_html/dbdump/customers.php on line 47

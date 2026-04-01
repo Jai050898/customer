@@ -1,0 +1,465 @@
+{include file=header.tpl}
+<!--body-->
+<div id="body">
+	<div class="bodybg">
+		<div class="">
+			<form name="EditProfile" id="EditProfile" method="post" class="form" onsubmit="javascript:$('#hid_type').val('Edit');">
+			<input type="hidden" name="hid_type" id="hid_type" value="">
+			<div style="height:10px;"></div>
+			<h1>Edit Profile</h1>
+			<table width="100%" border="0" cellspacing="1" cellpadding="5" class="left_content" style="color:#2f3337;">
+				<tr>
+					<td style="padding-top:10px;"></td>
+					<td></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="center" style="padding-left:75px;">First Name:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[first_name]" id="first_name" class="input req-string" value="{$AccDet.first_name}"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="center" style="padding-left:75px;">Last Name:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[last_name]" id="last_name" class="input req-string" value="{$AccDet.last_name}"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Email:</td>
+				  <td align="left" valign="center"><input type="text" name="Log[email]" id="email" class="input req-string req-email" value="{$AccDet.email}" onBlur="javascript:fnCheckEmailAvail('email',this.value,'validdiv');"/><br /><span id="validdiv" style="padding-left:5px; color:red"></span></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Public Email Address to be seen:</td>
+				  <td align="left" valign="center"><input type="text" name="Log[public_email]" id="public_email" class="input " value="{$AccDet.public_email}"  /></td>
+				</tr>
+				
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Company Name:</td>
+				  <td align="left" valign="center"><input type="text" name="Log[company_name]" id="company_name" class="input req-string" value="{$AccDet.company_name}" /></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="center" style="padding-left:95px;">Phone:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[phone]" id="phone" class="input req-string req-numeric" value="{$AccDet.phone}"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="center" style="padding-left:95px;">Fax:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[fax]" id="fax" class="input req-string req-numeric" value="{$AccDet.fax}"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Address:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><textarea name="Log[address]" id="address" class="input req-string" style="height:80px;">{$AccDet.address}</textarea></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">County:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[county]" id="county" class="input " value="{$AccDet.county}"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="center" style="padding-left:95px;">Country:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+					<select name="Log[country]" id="country" style="width:187px; height:23px;" class="select req-string" onchange="fnGetCountryStates(this.value,'state[]','state','StateRow');">
+						<option value="">--Please Select--</option>
+						{section name=list loop=$country}
+						<option value="{$country[list].Country_Code}" {if $country[list].Country_Code eq $AccDet.country} selected="selected"{/if}>{$country[list].Country_Name}</option>
+						{/section}
+					</select>
+				  </td>
+				</tr>
+				<tr>
+					<td align="right" valign="center" style="padding-left:95px;">State:<span class="redstar"> * </span></td>
+					<td align="left" valign="center"><span id="StateRow">
+					<select name="state[]" id="state" style="width:187px; height:23px;" class="select req-string">
+						<option value="">--Please Select--</option>
+						{section name=list loop=$State}
+						<option value="{$State[list].State_ID}" {if $State[list].State_ID eq $AccDet.state} selected="selected"{/if}>{$State[list].State_Name}</option>
+						{/section}
+					</select>
+					</span></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">City:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[city]" id="city" value="{$AccDet.city}" class="input req-string"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Zip code:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[zip_code]" id="zip_code" value="{$AccDet.zip_code}" class="input req-string"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Web Site:<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[website]" id="website" value="{$AccDet.website}" class="input req-string"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Screen Name :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[screen_name]" id="screen_name" value="{$AccDet.screen_name}" class="input"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Year shop established :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[shop_started_year]" id="shop_started_year" value="{$AccDet.shop_started_year}" class="input"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Number of employees :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[no_of_emp]" id="no_of_emp" value="{$AccDet.no_of_emp}" class="input"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Number of shop bays :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center"><input type="text" name="Log[no_of_shop_bays]" id="no_of_shop_bays" value="{$AccDet.no_of_shop_bays}" class="input"></td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Payment Types accepted :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+				  	{section name=list loop=$PT}
+						<input type="checkbox" name="payment_type[]" id="payment_type" {if $PTarray neq '' && in_array($PT[list].id, $PTarray)} checked="checked" {/if} value="{$PT[list].id}" />&nbsp;{$PT[list].payment_type}<br /><br />
+					{/section}
+				  </td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Languages :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+				  	{section name=list loop=$LG}
+						<input type="checkbox" name="language[]" id="language" {if $LGarray neq '' && in_array($LG[list].id, $LGarray)} checked="checked" {/if} value="{$LG[list].id}" />&nbsp;{$LG[list].languages}<br /><br />
+					{/section}
+				  </td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Birthday (YYYY-MM-DD) :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+				  	<input type="text" name="Log[dob]" id="dob" class="input" value="{$AccDet.dob}"/>
+				  </td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Approx Annual Gross Revenue :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+				  	<select name="Log[gross_revenue]" id="gross_revenue" style="width:187px; height:23px;" class="select req-string">
+						<option value="">-----Please Select-----</option>
+						{section name=list loop=$AS}
+						<option value="{$AS[list].id}" {if $AccDet.gross_revenue eq $AS[list].id} selected="selected" {/if}>{$AS[list].annual_revenue}</option>
+						{/section}
+					</select>
+				  </td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Hours of operation :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+							<table width="40%" border="0" cellspacing="5" cellpadding="5">
+							<tr>
+								<td><strong>Day</strong></td>
+								<td style="padding-left:15px;"><strong>Open</strong></td>
+								<td style="padding-left:35px;"><strong>Close</strong></td>
+								<td><strong>Holiday</strong></td>
+								<td><strong>Copy</strong></td>
+	
+							</tr>
+							  <tr>
+								<th scope="row">Monday</th>
+								<td>
+									<select name="Log1[monday_open]" id="monday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.monday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.monday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[monday_close]" id="monday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.monday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.monday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[monday_lock]" id="monday_lock" {if $hourLog.monday_lock eq 1} checked="checked" {/if}  value="1"/></td>
+	
+								<td><a href="javascript: CopyTimeFun();">Copy</a></td>
+	
+							  </tr>
+							  <tr>
+								<th scope="row">Tuesday</th>
+								<td>
+									<select name="Log1[tueday_open]" id="tueday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.tueday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.tueday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[tueday_close]" id="tueday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.tueday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.tueday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[tueday_lock]" id="tueday_lock" value="1" {if $hourLog.tueday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							  <tr>
+								<th scope="row">Wednesday</th>
+								<td>
+									<select name="Log1[wedday_open]" id="wedday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.wedday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.wedday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[wedday_close]" id="wedday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.wedday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.wedday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[wedday_lock]" id="wedday_lock" value="1" {if $hourLog.wedday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							  <tr>
+								<th scope="row">Thursday</th>
+								<td>
+									<select name="Log1[thuday_open]" id="thuday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.thuday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.thuday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[thuday_close]" id="thuday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.thuday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.thuday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[thuday_lock]" id="thuday_lock" value="1" {if $hourLog.thuday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							  <tr>
+								<th scope="row">Friday</th>
+								<td>
+									<select name="Log1[friday_open]" id="friday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.friday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.friday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[friday_close]" id="friday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.friday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.friday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[friday_lock]" id="friday_lock" value="1" {if $hourLog.friday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							  <tr>
+								<th scope="row">Saturday</th>
+								<td>
+									<select name="Log1[satday_open]" id="satday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.satday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.satday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[satday_close]" id="satday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.satday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.satday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[satday_lock]" id="satday_lock" value="1" {if $hourLog.satday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							  <tr>
+								<th scope="row">Sunday</th>
+								<td>
+									<select name="Log1[sunday_open]" id="sunday_open" style="width:95px; height:23px;float:left;" class="select req-string" {if $hourLog.sunday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+											<option value="{$hrs[list]}" {if $hourLog.sunday_open eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td>
+									<select name="Log1[sunday_close]" id="sunday_close" style="width:95px; height:23px;float:left; margin-left:15px;" class="select req-string" {if $hourLog.sunday_lock eq 1} disabled="disabled" {/if}>
+										{section name=list loop=$hrs}
+										<option value="{$hrs[list]}" {if $hourLog.sunday_close eq $hrs[list]} selected="selected" {/if}>{$hrs[list]}</option>
+										{/section}
+									</select>
+								</td>
+								<td><input type="checkbox" class="hours_checkbox input" name="Log1[sunday_lock]" id="sunday_lock" value="1" {if $hourLog.sunday_lock eq 1} checked="checked" {/if}/></td>
+							  </tr>
+							</table>
+					</td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Primary Automotive Services :<span class="redstar"> * </span></td>
+				  <td align="left" valign="center">
+				  	{section name=list loop=$KEY}
+						<input type="checkbox" name="services[]" id="services" {if $KEYarray neq '' && in_array($KEY[list].key_id, $KEYarray)} checked="checked" {/if} value="{$KEY[list].key_id}" />&nbsp;{$KEY[list].key_name}<br /><br />
+					{/section}
+				  </td>
+				</tr>
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Primary Brands :</td>
+				  <td align="left" valign="center">
+				  	{section name=list loop=$Brands}
+						<input type="checkbox" name="brands[]" id="brands" {if $Brandsarray neq '' && in_array($Brands[list].brand_id, $Brandsarray)} checked="checked" {/if} value="{$Brands[list].brand_id}" />&nbsp;{$Brands[list].brand_name}<br /><br />
+					{/section}
+				  </td>
+				</tr>
+				{if $Cities neq ""}
+				{section name=list loop=$Cities}
+				<tr>
+				  <td align="right" valign="top" style="padding-left:95px;">Surrounding Cities to target  :</td>
+				  <td align="left" valign="center">
+				  	<input type="text" name="taget_citiesold[]" id="taget_citiesild" class="input" value="{$Cities[list].city_name}"/>
+				  </td>
+				</tr>
+				{/section}
+				{/if}
+				<tr class="Clone" >
+				  <td align="right" valign="top" style="padding-left:95px;">Surrounding Cities to target  :</td>
+				  <td align="left" valign="center">
+				  	<input type="text" name="taget_cities[]" id="taget_cities" class="input" value="{$AccDet.taget_cities}"/>
+				  </td>
+				</tr>
+				<tr class="Clone" align="right">
+					<td colspan="2"><a href="javascript:void(0);" class="copy" rel=".Clone">Add New</a></td>
+				</tr>	
+				<tr>
+				  <td colspan="2" id="errorDiv1" style="color:#935;font-size:12px;; padding-left:215px;">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top" style="padding-left:5px;" colspan="2"><input name="input" id="Regis" type="Submit" value="Submit" /></td>
+				</tr>
+			</table>
+		<div class="clear"></div>
+		</form>
+		</div>
+		{* include file="rightbar.tpl" *}
+		<div class="clear"></div>
+	</div>
+</div>
+<!--end body-->	
+{include file="footer.tpl"}
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/ajax.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/jquery.ufvalidator-1.0.4.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/relCopy.jquery.js"></script>
+<script language="javascript" type="text/javascript">
+	$('#Regis').formValidator({literal}{scope: {/literal}'#EditProfile',errorDiv:'#errorDiv1'});
+</script>
+{literal}
+<script language="javascript" type="text/javascript">
+	$(function(){
+		var removeLink = ' <a class="remove" style="float:right;padding-right:5px;" href="#" onclick="$(this).parent().remove(); return false">Remove</a>';
+		$('a.copy').relCopy({limit: 500, append: removeLink});
+});
+$(".hours_checkbox").click(function(){
+	if ($("#monday_lock").is(":checked")) {
+		$('#monday_open').val('00:00am');
+		$('#monday_close').val('00:00am');
+		$('#monday_open').attr('disabled', 'disabled');
+		$('#monday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#monday_open').attr('disabled', false);
+		$('#monday_close').attr('disabled', false);
+	}
+	if ($("#tueday_lock").is(":checked")) {
+		$('#tueday_open').val('00:00am');
+		$('#tueday_close').val('00:00am');
+		$('#tueday_open').attr('disabled', 'disabled');
+		$('#tueday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#tueday_open').attr('disabled', false);
+		$('#tueday_close').attr('disabled', false);
+	}
+	if ($("#wedday_lock").is(":checked")) {
+		$('#wedday_open').val('00:00am');
+		$('#wedday_close').val('00:00am');
+		$('#wedday_open').attr('disabled', 'disabled');
+		$('#wedday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#wedday_open').attr('disabled', false);
+		$('#wedday_close').attr('disabled', false);
+	}
+	if ($("#thuday_lock").is(":checked")) {
+		$('#thuday_open').val('00:00am');
+		$('#thuday_close').val('00:00am');
+		$('#thuday_open').attr('disabled', 'disabled');
+		$('#thuday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#thuday_open').attr('disabled', false);
+		$('#thuday_close').attr('disabled', false);
+	}
+	if ($("#friday_lock").is(":checked")) {
+		$('#friday_open').val('00:00am');
+		$('#friday_close').val('00:00am');
+		$('#friday_open').attr('disabled', 'disabled');
+		$('#friday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#friday_open').attr('disabled', false);
+		$('#friday_close').attr('disabled', false);
+	}
+	if ($("#satday_lock").is(":checked")) {
+		$('#satday_open').val('00:00am');
+		$('#satday_close').val('00:00am');
+		$('#satday_open').attr('disabled', 'disabled');
+		$('#satday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#satday_open').attr('disabled', false);
+		$('#satday_close').attr('disabled', false);
+	}
+	if ($("#sunday_lock").is(":checked")) {
+		$('#sunday_open').val('00:00am');
+		$('#sunday_close').val('00:00am');
+		$('#sunday_open').attr('disabled', 'disabled');
+		$('#sunday_close').attr('disabled', 'disabled');
+	}
+	else {
+		$('#sunday_open').attr('disabled', false);
+		$('#sunday_close').attr('disabled', false);
+	}
+	
+	
+});
+function enableSelects(){
+	$('#monday_open').attr('disabled', false);
+	$('#monday_close').attr('disabled', false);
+	$('#tueday_open').attr('disabled', false);
+	$('#tueday_close').attr('disabled', false);
+	$('#wedday_open').attr('disabled', false);
+	$('#wedday_close').attr('disabled', false);
+	$('#thuday_open').attr('disabled', false);
+	$('#thuday_close').attr('disabled', false);
+	$('#friday_open').attr('disabled', false);
+	$('#friday_close').attr('disabled', false);
+	$('#satday_open').attr('disabled', false);
+	$('#satday_close').attr('disabled', false);
+	$('#sunday_open').attr('disabled', false);
+	$('#sunday_close').attr('disabled', false);
+	$('#hid_key').val('Post');
+	
+}
+function CopyTimeFun()
+{
+	var otime = $('#monday_open').val();
+	var ctime =  $('#monday_close').val();
+	
+	if (!$("#tueday_lock").is(":checked")) {
+		document.getElementById('tueday_open').value = otime;
+		document.getElementById('tueday_close').value = ctime;
+	}
+	if (!$("#wedday_lock").is(":checked")) {
+		document.getElementById('wedday_open').value = otime;
+		document.getElementById('wedday_close').value = ctime;
+	}
+	if (!$("#thuday_lock").is(":checked")) {
+		document.getElementById('thuday_open').value = otime;
+		document.getElementById('thuday_close').value = ctime;
+	}
+	if (!$("#friday_lock").is(":checked")) {
+		document.getElementById('friday_open').value = otime;
+		document.getElementById('friday_close').value = ctime;
+	}
+	if (!$("#satday_lock").is(":checked")) {
+		document.getElementById('satday_open').value = otime;
+		document.getElementById('satday_close').value = ctime;
+	}
+	if (!$("#sunday_lock").is(":checked")) {
+		document.getElementById('sunday_open').value = otime;
+		document.getElementById('sunday_close').value = ctime;
+	}
+}
+</script>
+{/literal}

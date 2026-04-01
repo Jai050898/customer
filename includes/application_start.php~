@@ -1,0 +1,35 @@
+<?php
+ob_start();
+session_start();
+error_reporting(E_ALL^E_NOTICE);
+ini_set("display_errors", "On");
+//echo getcwd();exit;
+/*********** Defining the Constants for the Whole Site **********/	
+$root = $_SERVER['DOCUMENT_ROOT'];
+if($_SERVER['SERVER_NAME'] == 'localhost' || $_SERVER['SERVER_NAME'] == '192.168.1.52')
+{
+	define('SITEPATH',$root."rsvp"); // Local Site root directory
+	define('SITEURL', 'http://'.$_SERVER['SERVER_NAME'].'/rsvp'); // For Local
+}
+else
+{
+	//define('SITEPATH',"/home/demoweb/public_html/rsvp");
+	//define('SITEURL', 'http://'.$_SERVER['SERVER_NAME'].'/~demoweb/rsvp'); 
+	define('SITEPATH',"/");
+	define('SITEURL', 'http://'.$_SERVER['SERVER_NAME'].'/'); 
+}
+//require_once("recaptchalib.php");
+define('SITETITLE','.:RSVP:.');
+define('FROM','support@rsvp.com');
+require(SITEPATH.'/libs/Smarty.class.php');
+require_once(SITEPATH."/class/dbsettings.php");
+require_once(SITEPATH."/class/db_class.php");
+require_once(SITEPATH."/class/general_class.php");
+$Gen = new General;
+$smarty = new Smarty;
+$smarty->template_dir = 'templates/';
+$smarty->compile_dir = 'templates_c/';
+$smarty->assign('sitetitle',SITETITLE);
+$smarty->assign('siteurl',SITEURL);
+$smarty->assign('site_path',SITEPATH);
+?>

@@ -1,0 +1,122 @@
+{include file=header.tpl}
+<link type="text/css" rel="stylesheet" href="{$siteurl}/css/date.css" />
+<div id="body">
+	<div class="bodybg" style="min-height:475px;">
+            <div class="bodyleft">
+                <div style="height:10px;"></div>
+                <span style="float:right;">&nbsp;</span>
+                <h1>Manage Reports By Customer Visits</h1>
+                <form id="ManageCustomers" class="form" method="GET" name="ManageCustomers">
+                    <input type="hidden" name="sortby" value="{$smarty.request.sortby}" />
+                    <input type="hidden" name="sortoption" value="{$smarty.request.sortoption}" />
+                    <table  width="100%" border="0" cellspacing="1" cellpadding="5" bgcolor="#6699cc">
+                        <tr>
+                                <td height="10" colspan="2"></td>
+                        </tr>
+                        <tr>
+                        <td align="left" valign="top" colspan="2">
+                            <table width="100%" border="0" cellspacing="1" cellpadding="5" bgcolor="#6699cc">
+                                <tr>
+                                    <td align="right" valign="top" style="padding-left:5px; color: #013F7D">From Date:</td>
+                                    <td align="left" valign="center"><input type="text" name="sdate" id="sdate" class="select" value="{$smarty.request.sdate}"/></td>
+                                    <td>&nbsp;</td>
+                                    <td align="right" valign="top" style="padding-left:5px;  color: #013F7D">To Date:</td>
+                                    <td align="left" valign="center"><input type="text" name="edate" id="edate" class="select" value="{$smarty.request.edate}"/></td>
+                                    <td>&nbsp;</td>
+                                </tr>
+                            </table>
+                    </tr>
+                    
+                        <tr>
+                      <td colspan="2">
+                            <div class="search_divbox">
+                                <input type="text" name="keyword" id="keyword" value="{if $smarty.request.keyword neq ""}{$smarty.request.keyword}{/if}" class="searchinput" />
+                                <input type="image" src="images/go_but.png" onclick="document.ManageVehicles.submit();"  style="vertical-align:bottom;"/> 
+                                <div class="clr"></div>
+                            </div>
+                      </td>
+                    </tr>   
+                        <tr>
+                            <td colspan="2">
+                                  <div class="pagecount_info_divbox">
+                                      Showing Records {$records_from} to {$records_to} of {$total}
+                                      <div class="clr"></div>
+                                  </div>
+                            </td>
+                        </tr> 
+                        <tr>
+                                <td align="left" valign="top" colspan="2">
+                                  <table width="100%" border="0" cellspacing="1" cellpadding="5" bgcolor="#6699cc"  class="tableinnercontent">
+                                 
+                                      <tr>
+                                                <th bgcolor="#336699" style="color:#fff;">S. No</th>
+                                                <th bgcolor="#336699" style="color:#fff;"><a href="javascript: setClientSort('fullname','{$sortioption}',document.ManageCustomers);">Name</a></th>
+                                                <th bgcolor="#336699" style="color:#fff;">First Visit Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Second Visit Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Third Visit Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Fourth Visit Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Fifth Visit Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Total Visits Amount</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Total Visits Count</th>
+                                                <th bgcolor="#336699" style="color:#fff;">Average RO</th>
+
+                                        </tr>
+                                        {foreach item=item name=item from=$customer}
+                                            <tr>
+                                        
+                                                <td bgcolor="#f9f9f7" style="color:#000000;">{$smarty.foreach.item.index+1}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{$item.fullname}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.fv eq ""}{'--N-A--'}{else}${$item.fv}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.sv eq ""}{'-N-A-'}{else}${$item.sv}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.tv eq ""}{'-N-A-'}{else}${$item.tv}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.fov eq ""}{'-N-A-'}{else}${$item.fov}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.fiv eq ""}{'-N-A-'}{else}${$item.fiv}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{if $item.tov eq ""}{'-N-A-'}{else}${$item.tov}{/if}</td>
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{$item.allTotal}</td>
+                                                
+                                                <td bgcolor="#f9f9f7" style="color:#000000;text-align: right;">{$item.avro}</td>
+                                            
+                                            </tr>
+                                        {foreachelse}
+                                            <tr>
+                                                <th bgcolor="#f9f9f7" style="color:#000000;" colspan="7"><font color="#FF0000"><strong>No Records Found</strong></font></th>
+                                            </tr>
+                                        {/foreach}
+                                  </table>
+                                </td>
+                        </tr>
+                        {if $customer|@count gt 0}
+                        <tr>
+                            <td colspan="7" bgcolor="#f9f9f7"><table width="100%" cellspacing="0" cellpadding="5">
+                              <tr>
+                              <td  align="left" bgcolor="#336699">&nbsp;		</td>
+                              <td  align="right"  bgcolor="#336699"><div style="float:right; padding-right:5px;">{if $first neq ""}{$first}{/if}{if $prev neq ""}{$prev}{/if}{if $nav neq ""}{$nav}{/if}{if $next neq ""}{$next}{/if}{if $last neq ""}{$last}{/if}</div></td>
+                              </tr>
+                              </table>
+                            </td>
+                        </tr>
+                      {/if}
+                    </table>
+                </form>
+                <div class="clear"></div>
+            </div>
+            { include file="rightbar.tpl" }
+            <div class="clear"></div>
+	</div>
+</div>
+{include file="footer.tpl"}
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/ajax.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/jquery.alerts.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/admin/js/jquery.ufvalidator-1.0.4.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/ajax.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/jquery.alerts.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/admin/js/jquery.ufvalidator-1.0.4.js"></script>
+<script language="javascript" type="text/javascript" src="{$siteurl}/js/jquery-date.js"></script>
+{literal}
+<script type="text/javascript" lang="javascript">
+    $(document).ready(function() {	
+	$("#sdate").datepicker();
+	$("#edate").datepicker();
+    });	
+</script>
+{/literal}

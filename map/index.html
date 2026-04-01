@@ -1,0 +1,130 @@
+<html><head>
+<script language="javascript" type="text/javascript" src="jquery-1.8.0.min.js"></script>
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script language="javascript" type="text/javascript">
+
+var map; // global var to store the google map
+var centerCoord = new google.maps.LatLng(40.453577,-3.68763); // Estadio Santiago Bernabeu, Madrid
+var browserDetectedLocation = null;
+
+// global variables used throughout the js functionality
+var markersArray = [];
+var infoWindow = new google.maps.InfoWindow({});
+var defaultZoom = 8;
+
+var latLngAry = new Array();
+
+var marksSet = new Array();
+marksSet.push(new Array('45.4441160','-122.7971480','markerimg','info content1'));
+marksSet.push(new Array('47.9092399','-122.1842310','markerimg','info content1'));
+marksSet.push(new Array('47.9302930','-122.2083960','markerimg','info content1'));
+latLngAry.push(marksSet);
+
+var marksSet = new Array();
+marksSet.push(new Array('47.9050050','-122.2340940','markerimg','info content'));
+marksSet.push(new Array('47.9142122','-122.2330720','markerimg','info content'));
+marksSet.push(new Array('47.9263690','-122.2128080','markerimg','info content'));
+latLngAry.push(marksSet);
+
+
+var iteration = 0;
+
+//// Load Map
+function loadMap(){ 
+    var settings = // json variable for default settings
+    {
+        zoom: defaultZoom,
+        center: centerCoord,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        mapTypeControlOptions: {
+            style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+        }
+    };
+    
+    map = new google.maps.Map(document.getElementById('gMap'), settings);
+
+    map.setCenter(centerCoord);//39
+    
+    displayMarkers();
+	
+    //return map;
+}
+
+/////Load marker to map
+function loadMarker(m_position,markImg,info){
+    marker = new google.maps.Marker({
+	  	position: m_position,
+	  	map: map,
+		title:"Hello World!"
+	});
+	//markersArray.push(marker);
+	//mark = markersArray.pop();
+	google.maps.event.addListener(marker, 'click', function(event) {
+		new google.maps.InfoWindow({
+            content: this.title
+        }).open(map, this);
+	});
+            
+	markersArray.push(marker);
+}	
+function displayMarkers(){
+	if(iteration == latLngAry.length) iteration = 0;
+	var j=0;
+	var latlng_pos=[];
+	//$('#debugDiv').append('<div>'+latLngAry.length+'</div>');
+	var marksAry = latLngAry[iteration];
+	//$('#debugDiv').append('<div>'+marksAry[0][1]+'</div>');
+	for(i=0; i<marksAry.length;i++){
+		var lat = marksAry[i][0];
+		var lng = marksAry[i][1];
+		var markImg = marksAry[i][2];
+		var info = marksAry[i][3];
+		$('#debugDiv').append('<div>'+marksAry[i][0]+'</div>');
+		var update2Location = new google.maps.LatLng(lat,lng);	
+		map.setCenter(update2Location);
+		loadMarker(update2Location,markImg,info);
+		latlng_pos[j] = update2Location;
+		j++;
+	}
+	
+	var latlngbounds = new google.maps.LatLngBounds( );
+    for ( var i = 0; i < latlng_pos.length; i++ )
+        latlngbounds.extend( latlng_pos[ i ] );
+        
+    map.setCenter(latlngbounds.getCenter());
+    map.fitBounds(latlngbounds); 
+	
+	setTimeout('clearOverlays()',20000);
+	iteration++;
+}	
+// Deletes all markers in the array by removing references to them
+function clearOverlays() {
+    if (markersArray) {
+        for (i in markersArray) {
+            markersArray[i].setMap(null);
+        }
+    }
+    markersArray = [];
+	setTimeout('displayMarkers()',10000);
+}	
+
+$(function () {
+
+    loadMap();
+
+});//$(function
+
+
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																											
+
+
+
+
+
+</script>
+</head><body onLoad="">
+<div id="gMap" style="height:600px; width:1200px; border:1px solid #FF0000;" align="center"></div>
+<!-- <div id="debugDiv" style="position:absolute; right:0px; border:1px solid #CCC;top:20px;left:810px; height:500px; overflow:scroll"></div> -->
+</body></html>

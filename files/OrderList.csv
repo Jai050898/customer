@@ -1,0 +1,1060 @@
+"keyid","workid","seqno","description","performed","qty","cost","price","sale","partno","hours_charged","hours_actual","hours_pay","version","taxdollars","part_labor","discountlevel","vendorcode","tax1","tax2","tax3","tax4","tax5","tax6","tax7","tax8","tax9","tax10","acctclass","category","staticamt","techsel","TechNum","partConfirm","partCommited","accessory","part_unique","Commission","package","Symptom","LongCode","ReqCode","sMfgCode","sTSBSymptom","sTSBCategory","sTSBSystem","sUpcCode","sPartsHier","QtyConfirmed","ConfirmNum","sTSBTitle","sWDLineCode","sAffGrpId","sCatPartType","fList","bPartOrdered"
+-3,-3,0,"Environmental",,0,0,0,0,,0,0,-9.12E+019,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+-2,-2,0,"Shop Supplies",,0,0,0,0,,0,0,-9.12E+019,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+-1,-1,0,,,0,0,0,0,,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+175,65,1,"30,000 Mile Maintenance","Verify from customer when last major service was performed.  Gather any other important vehicle information from customer.  Change engine oil and filter.  Lubricate chassis where possible.  Replace PCV.  Change transmission and/or differential fluids.  Re",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+176,66,1,"60,000 Mile Maintenance","Verify from customer when last major service was performed.  Gather any other important vehicle information from customer.  Change engine oil and filter.  Lubricate chassis where possible.  Replace PCV.  Change transmission and/or differential fluids.  Re",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+177,67,1,"120,000 Mile Maintenance","Verify from customer when last major service was performed.  Gather any other important vehicle information from customer.  Change engine oil and filter.  Lubricate chassis where possible.  Replace PCV.  Change transmission and/or differential fluids.  Re",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+178,68,1,"90,000 Mile Maintenance","Verify from customer when last major service was performed.  Gather any other important vehicle information from customer.  Change engine oil and filter.  Lubricate chassis where possible.  Change transmission and/or differential fluids.  Replace air filt",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+179,69,1,"Replace front struts","Check condition of front struts.  Found poor front struts.  Removed and replaced front struts.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+180,70,1,"Replace rear struts","Check condition of rear struts.  Found poor rear struts.  Removed and replaced rear struts.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+181,71,1,"Replace front shocks","Check condition of front shocks.  Found poor front shocks.  Removed and replaced front shocks.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+182,72,1,"Replace rear shocks","Check condition of rear shocks.  Found poor rear shocks.  Removed and replaced rear shocks.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+183,73,1,"Automatic transmission fluid flush","Road test and verify engine performance, transmission operation, and shift patterns.  Flush transmission which includes:  flushing of transmission cooler, cooler lines, valve body, and torque converter.  Flush all contaminated fluid out and replace with new fluid",0,0,0,0,,0,0,0,6,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+184,74,1,"Replace automatic transmission filter and gasket (if not the reusable type) and flush system -","Remove and replace automatic transmission filter and gasket (if not the reusable type). Flush system thoroughly.  Add fresh transmission fluid.  Inspect for leaks.  Road test vehicle.",0,0,0,112.5,,1.25,0,0,13,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+185,75,1,"Replace automatic transmission filter and gasket (if not the reusable type) -","Remove and replace automatic transmission filter and gasket (if not the reusable type) with the removal of skid plate and/or cross member.  Add fresh transmission fluid.  Inspect for leaks.  Road test vehicle.",0,0,0,110,,1.25,1.25,1.25,8,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+186,76,1,"Replace automatic transmission cooler lines","Remove and replace transmission cooler lines.  Inspect for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+187,77,1,"Replace automatic transmission metal cooler lines","Remove and replace transmission metal cooler lines.  Inspect for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+188,78,1,"Replace automatic transmission vacuum modulator","Remove and replace automatic transmission vacuum modulator.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+189,79,1,"Replace automatic transmission detent cable","Remove and replace automatic transmission detent cable. Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+190,80,1,"Replace automatic transmission shift cable","Remove and replace automatic transmission shift cable.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+191,81,1,"Replace automatic transmission throttle valve cable","Remove and replace automatic transmission throttle valve cable. Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+192,82,1,"Replace automatic transmission mount","Remove and replace automatic transmission mount.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+193,83,1,"Replace automatic transmission rear extension seal","Remove drive shaft to replace automatic transmission rear extension seal.  Reinstall drive shaft.  Inspect for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+194,84,1,"Replace right side automatic transmission axle seal","Remove C.V. axle to replace right side automatic transmission axle seal.  Reinstall C.V. axle.  Inspect for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+195,85,1,"Replace left side automatic transmission axle seal","Remove C.V. axle to replace left side automatic transmission axle seal.  Reinstall C.V. axle",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+196,86,1,"Replace automatic transmission side cover gasket","Remove and replace automatic transmission side cover gasket.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+197,87,1,"Replace automatic transmission torque converter","Remove and replace automatic transmission torque converter.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+198,88,1,"Replace automatic transmission","Remove and replace automatic transmission with remanufactured transmission.  Flush transmission cooler and add fresh transmission fluid.  Inspect for leaks.  Road test for proper shift points and overall operation.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+199,89,1,"Replace automatic transmission flex plate","Remove and replace automatic transmission flex plate.  Road test vehicle.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,117,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+200,90,1,"Manual transmission fluid change","Drain and refill manual transmission fluid.  Inspect for leaks.  Check linkage for wear and proper operation.  Road test vehicle.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+201,91,1,"Flush clutch master cylinder and slave cylinder","Remove and replace clutch master cylinder and slave cylinder.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+202,92,1,"Replace clutch, pressure plate, and bearing","Remove transmission to gain access to install clutch, pressure plate, and bearing.  Reinstall transmission.  Perform all necessary adjustments and road test vehicle.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,149,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+203,93,1,"Replace clutch master cylinder","Remove and replace clutch master cylinder.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,149,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+204,94,1,"Replace clutch slave cylinder","Remove and Replace clutch slave cylinder.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,149,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+205,95,1,"Adjust clutch","Adjust clutch to manufacturers specifications.  Road test vehicle for proper operation.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,149,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+206,96,1,"Front differential fluid change","Remove cover.  Remove old gasket material, drain old fluid.  Inspect the internal differential components and reassemble with new gasket.  Install new fluid to proper level, adding the correct additive, if needed.  Road test vehicle for proper operation.",0,0,0,66,,0.75,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+207,97,1,"Rear differential fluid change","Remove cover.  Remove old gasket material, drain old fluid.  Inspect the internal differential components and reassemble with new gasket.  Install new fluid to proper level, adding the correct additive, if needed.  Road test vehicle for proper operation.",0,0,0,66,,0.75,0,0,5,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,1,0,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+208,98,1,"Removal of any obstructions","Serviced as requested.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+209,99,1,"Transfer case fluid change","Serviced as requested.",0,0,0,28.5,,0.36,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+210,100,1,"Replace right front C.V. joint axle","Removed and replaced right front Constant Velocity joint.  Road tested vehicle for proper operation.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+211,101,1,"Replace left front Driveshaft assembly","Remove and replace left front driveshaft assembly.  Road test vehicle.",0,0,0,98,,1,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+212,102,1,"Replace right front Driveshaft assembly","Remove and replace right front driveshaft assembly.  Road test vehicle.",0,0,0,98,,1,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+213,103,1,"Replace right rear Driveshaft assembly","Remove and replace right rear driveshaft assembly.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+214,104,1,"Replace left rear Driveshaft assembly","Remove and replace left rear driveshaft assembly.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+215,105,1,"Replace left front outer Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+216,106,1,"Replace left front inner Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+217,107,1,"Replace both left front inner and outer Constant Velocity Boots","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+218,108,1,"Replace right front outer Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+219,109,1,"Replace right front inner Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+220,110,1,"Replace both right front inner and outer Constant Velocity Boots","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+221,111,1,"Replace left rear outer Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+222,112,1,"Replace left rear inner Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+223,113,1,"Replace both left rear inner and outer Constant Velocity Boots","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+224,114,1,"Replace right rear outer Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+225,115,1,"Replace right rear inner Constant Velocity Boot","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+226,116,1,"Replace both right rear inner and outer Constant Velocity Boots","Remove driveshaft assembly.  Clean and repack Constant Velocity joint.  Replace protective boot.  Reinstall driveshft assembly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+227,117,1,"Replace center universal joint","Remove driveshaft.  Replace universal joint. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+228,118,1,"Replace front universal joint","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+229,119,1,"Replace front and rear universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+230,120,1,"Replace rear universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+231,121,1,"Replace front and rear universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+232,122,1,"Replace front universal joint","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+233,123,1,"Replace rear universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+234,124,1,"Replace front, center and rear universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+235,125,1,"Replace front and center universal joints","Remove driveshaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+236,126,1,"Replace center and rear universal joints","Remove drive shaft.  Replace universal joints. Reinstall driveshaft.  Road test vehicle",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+237,127,1,"Replace driveshaft center support bearing","Remove driveshaft.  Replace center support bearing. Reinstall driveshaft.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,150,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+238,128,1,"Wheel alignment check","Road test vehicle.  Check all suspension and steering parts for wear.  Check tire pressure and condition.  Check riding height.   Check caster and camber and toe in.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,151,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+239,129,1,"Front wheel alignment","Road test vehicle.  Check all suspension and steering parts for wear.  Check tire pressure and condition.  Check riding height.  Check caster and camber angles and adjust as required.  Check and set toe-in as required.  Center steering wheel.",0,0,0,69.95,,0.78,0.78,0.78,8,0,1,0,,1,0,0,0,0,0,0,0,0,0,28,146,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+240,130,1,"Four wheel alignment","Road test vehicle.  Check all suspension and steering parts for wear.  Check tire pressure and condition.  Check riding height.  Check alignment of all four wheels.  Adjust caster, camber, toe-in, and thrust angle as needed on all four wheels.  Center steering wheel.",0,0,0,89.95,,1,1,1,10,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+241,131,1,"Install rear wheel alignment shims","Add rear wheel alignment shims as needed for proper alignment adjustment.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,151,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+242,132,1,"Install rear wheel alignment cam bolts","Add rear wheel alignment cam bolts to allow for proper alignment adjustment.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,151,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+243,133,1,"Install front wheel alignment cam bolts","Add front wheel alignment cam bolts to allow for proper alignment adjustment.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,151,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+244,134,1,"Strut correction",,0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,151,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+245,135,1,"Balance one wheel","Remove wheel from vehicle.  Computer spin balance.  Reinstall wheel to vehicle and torque lug nuts to manufacturer's specifications.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,121,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+246,136,1,"Balance two wheels","Remove wheels from vehicle.  Computer spin balance.  Reinstall wheels to vehicle and torque lug nuts to manufacturer's specifications.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,121,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+247,137,1,"Balance four wheels","Remove wheels from vehicle.  Inspect brakes.  Computer spin balance.  Reinstall wheels to vehicle and torque lug nuts to manufacturer's specifications.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,121,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+248,138,1,"Power steering fluid flush","Road test for power steering operation.  Inspect system for leaks.  Flush power steering lines, pump, rack and pinion, and or gear box.  Install new power steering fluid.  Install power steering additive. Road test vehicle.",0,0,0,46.25,,0.5,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+249,139,1,"Replace power steering pump","Flush power steering system.  Remove and replace power steering pump.  Add fresh power steering fluid.  Check for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+250,140,1,"Replace power steering gear box","Remove and replace power steering gear box.  Add fresh power steering fluid.  Check for leaks.  Road test vehicle.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+251,141,1,"Replace power steering high pressure hose","Remove and replace power steering high pressure hose.  Add fresh power steering fluid.  Checks for leaks.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+252,142,1,"Replace power steering return hose line","Remove and replace power steering return hose line.  Add fresh power steering fluid.  Checks for leaks.",0,0,0,0,,0,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+253,143,1,"Replace power steering rack and pinion","Remove and replace power steering rack assembly.  Add fresh power steering fluid and bleed system.  Inspect for leaks.  Check and adjust toe-in, center steering wheel. Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+254,144,1,"Inspect power steering system","Road test vehicle.  Inspect power steering pump, gear box and or rack pinion for wear.  Inspect system for leaks.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,142,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+255,145,1,"Check suspension components","Check and inspect suspension components:  ball joints, tie rods, idler arms, springs, bushings, and check for accident damage.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+256,146,1,"Replace right front inner tie rod end","Remove and replace right front inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+257,147,1,"Replace right front inner tie rod on rack and pinion","Remove and replace right front inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+258,148,1,"Replace right front outer tie rod end","Remove and replace right front outer tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+259,149,1,"Replace left front inner tie rod end","Remove and replace left front inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+260,150,1,"Replace left front inner tie rod on rack and pinion","Remove and replace left front inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+261,151,1,"Replace left front outer tie rod end","Remove and replace left front outer tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+262,152,1,"Replace right front inner and outer tie rod ends","Remove and replace right front inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+263,153,1,"Replace left front inner and outer tie rod ends","Remove and replace left front inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+264,154,1,"Replace right front inner and outer tie rods on rack and pinion","Remove and replace right front inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+265,155,1,"Replace left front inner and outer tie rods on rack and pinion","Remove and replace left front inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+266,156,1,"Aim head lamps and lighting safety check","Adjust head lamps to obtain maximum nighttime visibility.  Perform intensity test to insure proper brightness.  Lube adjuster mechanisms and check for proper high/low beam switch operation.  Check entire vehicle for faulty bulbs.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+267,157,1,"Replace right rear inner tie rod end","Remove and replace right rear inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+268,158,1,"Replace right rear outer tie rod end","Remove and replace right rear outer tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+269,159,1,"Replace left rear inner tie rod end","Remove and replace left rear inner tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+270,160,1,"Replace left rear outer tie rod end","Remove and replace left rear outer tie rod assembly.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+271,161,1,"Replace right rear inner and outer tie rod ends","Remove and replace right rear inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+272,162,1,"Replace left rear inner and outer tie rod ends","Remove and replace left rear inner and outer tie rod assemblies.  Check and adjust toe-in.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,146,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+273,163,1,"Brake inspection","Remove and reinstall four wheels and rear brake drums to inspect brake condition.  Inspect entire system for leaks.  Lining remaining is:  Front (    %) Rear (    %)",0,0,0,24.5,,0.25,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+274,164,1,"Replace front disc pads only","Replace front brake pad linings.  Check front brake disc rotor condition.  Clean and lubricate brake calipers and slide mechanisms.  Check and fill brake fluid.  Bleed air from system.  Road test vehicle.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+275,165,1,"Replace front disc pads and machine rotors","Replace front brake pad linings and machine front brake disc rotors.   Clean and lubricate brake calipers and slide mechanisms.  Check and fill brake fluid. Torque lug nuts to proper specs. Road test vehicle.",0,0,0,79.95,,0.86,0.86,0.86,8,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+276,166,1,"Replace front disc pads, machine rotors, and repack bearings","Replace front brake pad linings and machine front brake disc rotors. Clean and repack wheel bearings if equipped.  Clean and lubricate brake calipers and slide mechanisms.  Check and fill brake fluid.Torque lug nuts to proper specs.Road test vehicle.",0,0,0,89.95,,0.97,0.97,0.97,7,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,0,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+277,167,1,"Replace rear brake drum brakes","Repace rear shoes , wheel cylinders and  Install rear hardware.Bleed air from system.  Adjust parking brake. Torque lug nuts to proper specs. Road test vehicle.",0,0,0,89.95,,0.97,0.97,0.97,5,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+278,168,1,"Rear brake reline / Slide off drums","Replace rear brake shoe set.  Replace hold down hardware and springs as required. Replace rear wheel cylinders.  Resurface and machine rear brake drums.  Clean and lubricate backing plates and reassemble.Torque lug nuts to proper specs.  Road test vehicle.",0,0,0,119.95,,1.3,1.3,1.3,7,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+279,169,1,"Reline rear disc brakes","Replace rear brake linings.  Inspect condition and thickness of rear brake disc rotors.  Retract rear brake caliper actuators.  Clean and lubricate rear brake caliper slide mechanism.  Adjust parking brake. Torque lug nuts to proper specs. Road test vehicle.",0,0,0,89.95,,0.97,0.97,0.97,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+280,170,1,"Complete 4 wheel disc brake service","Includes installation of all four rebuilt calipers equipped with new seals, hardware, and premium brake pads.  Clean and lubricate caliper slide mechanisms.  Clean and repack wheel bearing if required.  Adjust parking brake.  Flush brake fluid.  Torque lug nuts to proper spec. Road Test",0,0,0,245,,2.5,2.5,2.5,5,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+281,171,1,"Complete 4 wheel disc/drum brake service","Install rebuilt caliper with new hardware, new brake pads, and seals.  Repack wheel bearings and install new wheel seals if equipped.  Reline rear brakes. Replace both wheel cylinders.  Install new rear hardware.  Bleed and adjust brake system.Torque lug nuts to proper specs. Road test for proper operation.",0,0,0,199.95,,2.16,2.16,2.16,5,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+282,172,1,"Replace master brake cylinder","Remove and replace master cylinder assembly.  Bleed hydraulic system.  Road test vehicle.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+283,173,1,"Brake fluid flush","Check brake fluid for moisture and contamination.  Inspect all hydraulic line and hoses.  Inspect calipers and wheel cylinders.  Inspect master cylinder and cap.  Flush entire brake system including master cylinder, calipers, wheel cylinders until clean.",0,0,0,59.95,,0.61,0.5,0.5,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+284,174,1,"Remove brake drum for machining","Resurface and machine rear brake drums.  Clean and lubricate backing plates.  Road test vehicle",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+285,175,1,"Remove brake disc rotors for machining","Resurface and machine brake disc rotors. Torque lug nuts to manufacturers specifications.  Road test vehicle",0,0,0,49,,0.5,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,109,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+286,176,1,"Replace left tail light bulb","Check for proper operations of tail lights.  Found and replaced faulty left tail light bulb.  Recheck to find tail lights work properly.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+287,177,1,"Replace right tail light bulb","Check for proper operations of tail lights.  Found and replaced faulty right tail light bulb.  Recheck to find tail lights work properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+288,178,1,"Replace left brake light bulb","Check for proper operations of brake lights.  Found and replaced faulty left brake light bulb.  Recheck to find brake lights work properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+289,179,1,"Replace right brake light bulb","Check for proper operations of brake lights.  Found and replaced faulty right brake light bulb.  Recheck to find brake lights work properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+290,180,1,"Replace center brake light bulb","Check for proper operations of brake lights.  Found and replaced faulty center brake light bulb.  Recheck to find brake lights work properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+291,181,1,"Replace rear turn signal bulb","Check for proper operation of turn signals.  Found and replaced faulty rear turn signal bulb.  Recheck to find turn signals operate properly.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+292,182,1,"Replace front turn signal bulb","Check for proper operation of turn signals.  Found and replaced faulty front turn signal bulb.  Recheck to find turn signals operate properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+293,183,1,"Replace turn signal flasher unit","Check for proper operation of turn signals.  Found and replaced faulty front turn signal flasher unit.  Recheck to find turn signals operate properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+294,184,1,"Replace left low beam headlight bulb","Check for proper operation of headlights.  Found and replaced faulty left low beam bulb.  Recheck to find headlights operate properly.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+295,185,1,"Replace left high beam headlight bulb","Check for proper operation of headlights.  Found and replaced faulty left high beam bulb.  Recheck to find headlights operate properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+296,186,1,"Replace right low beam headlight bulb","Check for proper operation of headlights.  Found and replaced faulty right low beam bulb.  Recheck to find headlights operate properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+297,187,1,"Replace right high beam headlight bulb","Check for proper operation of headlights.  Found and replaced faulty right high beam bulb.  Recheck to find headlights operate properly.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+298,188,1,"Replace worn wiper blades","Remove and replace worn wiper blades with new summer wiper blades.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,124,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+299,189,1,"Replace worn wiper blades","Remove and replace worn wiper blades with new winter wiper blades.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,124,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+300,190,1,"Replace catalytic converter","Inspect entire exhaust system for leaks.  Remove and replace catalytic converter.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+301,191,1,"Electrical system analysis - Test the starting and charging system.","Inspect battery terminals and cables.  Charge battery to full capacity.  Load test battery and record readings.  Inspect alternator belt and adjust as required.  Perform alternator output test and record readings.  Perform starter draw test and record readings.",0,0,0,49,,0.5,0,0,6,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+302,192,1,"Test charging system","Inspect charging system for proper output to battery.  Load test battery.  Inspect all wiring.  Inspect belt and adjust as required.  Test for current draw on electrical system and record findings.",0,0,0,14.5,,0.18,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,6,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+303,193,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Perform basic safety inspection.  Road test vehicle.",0,0,0,15.95,,0.17,0.5,0.5,15,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+304,194,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Perform basic safety inspection.  Road test vehicle.",0,0,0,15.95,,0.17,0.5,0.5,14,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,120,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+305,195,1,"Maintenance tune-up","Check battery starting and charging system. Check and adjust ignition timing.  Replace spark plugs.  Inspect ignition and fuel system.  Check fluid levels, tires pressures and wear, lights, belts, hoses, cooling system.",0,0,0,79.95,,0.97,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+306,196,1,"Maintenance tune-up","Check battery starting and charging system.Check and adjust ignition timing.  Replace spark plugs.  Inspect ignition and fuel system.  Check fluid levels, tires pressures and wear, lights, belts, hoses, cooling system.",0,0,0,79.95,,0.97,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+307,197,1,"Maintenance tune-up","Check battery starting and charging system.Check and adjust ignition timing.  Replace spark plugs.  Inspect ignition and fuel system.  Check fluid levels, tires pressures and wear, lights, belts, hoses, cooling system.",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+308,198,1,"Major tune-up","Replace spark plugs.  Check and adjust ignition timing as required.  Check and adjust curb idle speed as required.  Visual check of emission control related devices.  Inspect spark plug wires, distributor cap and rotor.  Clean fuel injectors, ISC motor, t",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+309,199,1,"Major tune-up","Replace spark plugs.  Check and adjust ignition timing as required.  Check and adjust curb idle speed as required.  Visual check of emission control related devices.  Inspect spark plug wires, distributor cap and rotor.  Clean fuel injectors, ISC motor, t",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+310,200,1,"Major tune-up","Replace spark plugs.  Check and adjust ignition timing as required.  Check and adjust curb idle speed as required.  Visual check of emission control related devices.  Inspect spark plug wires, distributor cap and rotor.  Clean fuel injectors, ISC motor, t",0,0,0,0,,0,0,0,2,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+311,201,1,"Fuel control system tune-up","Clean gum and soft carbon deposit from fuel delivery components and inside combustion chamber.  Perform complete fuel pressure and volume test.  Road test vehicle.",0,0,0,99.95,,1,0.75,0.75,6,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+312,202,1,"Replace fuel filter","Remove and replace fuel filter.  Inspect for leaks.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+313,203,1,"Replace air filter","Remove and replace air filter.  Inspect and remove any debris obstructing the air intake system.",0,0,0,0,,0,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,145,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+314,204,1,"Drain and flush cooling system","Inspect hoses and clamps.  Pressure test cooling system.  Flush engine, radiator, and heater core in both directions.  Bring antifreeze to -35 degrees.  PH balance coolant to between 9.8 to 10.5.  Check thermostat and electric cooling fan operation.  Chec",0,0,0,89.95,,0.92,0,0,6,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,115,1,4,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+315,205,1,"Replace radiator cap","Check cooling system to find and replace faulty radiator cap.",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,115,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+316,206,1,"Replace cooling system hose","Check cooling system to find faulty hose(s).  Repalce faulty hose(s).",0,0,0,0,,0,0,0,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,115,0,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+317,207,1,"Air conditioning service","Service air conditioner.  Check condition of all belts and lines.  Evacuate and recharge with reclaimed R-12.  Test system performance.",0,0,0,49.95,,0.64,0,0,3,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,115,1,4,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+318,208,1,"Air conditioning service","Service air conditioner.  Check condition of all belts and lines.  Evacuate and recharge with reclaimed R-134.  Test system performance.",0,0,0,59.95,,0.67,0,0,4,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,115,1,0,0,0,0,0,0,-1,0,,,,,,,,,,0,,,,,,0,FALSE
+319,209,1,"SERPENTINE BELT",,1,0,0,0,"6K532",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,32,0,-1,0,,0,0,"ABH35",,,,,,0,,,,,,0,FALSE
+458,259,2,"TRANSMISSION - TUNE [B]","1985-95  All applicable models  Includes: R&I oil pan, clean or replace oil filter or screen. Adjust manual and throttle valve linkage. Replace necessary fluid and road test.",0,0,0,59.5,,0.85,1.6,1.6,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+462,259,6,"AT REFILL CAPACITY-QT",,6.5,1.25,2.25,2.25,"6.5",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"FLPFLP",,,,,,6.5,,,,,,0,FALSE
+463,259,7,"CRANKCASE CAPACITY-QT",,5,1.25,2.5,2.25,"5.0",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"FLPFLP",,,,,,5,,,,,,0,FALSE
+470,259,14,"PRESSURE HOSE",,1,27.45,54.9,54.9,"91647",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"EDEEDE",,,,,,1,,,,,,0,FALSE
+471,259,15,"RESISTOR PLUG",,8,1.55,3.1,3.1,"R44LTS6",0,0,0,6,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,40,0,-1,0,,0,0,"AC DE",,,,,,8,,,,,,0,FALSE
+472,259,16,"WIRE SET-CUSTOM",,1,35.76,71.52,71.52,"618U",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+473,259,17,"DISTRIBUTOR ROTOR",,1,4.45,8.9,8.9,"D448",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+474,259,18,"DISTRIBUTOR CAP",,1,18.82,37.64,37.64,"D338",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+475,259,19,"PCV VALVE",,1,2.14,4.28,4.28,"CV769C",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+476,259,20,"OIL FILTER",,1,4.57,9.62,9.62,"1036",0,0,0,6,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,2,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+477,259,21,"FUEL FILTER",,1,9.64,19.28,19.28,"GF481",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+478,259,22,"BREATHER FILTER",,1,4.68,9.36,9.36,"FB103",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+479,259,23,"AIR FILTER",,1,4.92,9.84,9.84,"A1096C",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+483,259,30,"WATER PUMP-NEW",,1,60.68,121.36,121.36,"252-720",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"DWPDE",,,,,,1,,,,,,0,FALSE
+484,259,31,"THERMOSTAT-192F/88C",,1,4.61,9.22,9.22,"131-85",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+485,259,32,"RADIATOR CAP-REGULAR",,1,4.59,9.18,9.18,"RC27",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+487,259,34,"MOLDED COOLANT/HTR HOSE",,1,19.37,38.74,38.74,"16145M",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+488,259,35,"LOWER RADIATOR HOSE",,1,8.79,17.58,17.58,"20161S",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+489,259,36,"UPPER RADIATOR HOSE",,1,9.61,19.22,19.22,"26154X",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+491,259,38,"SERPENTINE BELT",,1,25.57,51.14,51.14,"6K868",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+492,259,41,"ENGINE-REMAN",,1,1891,2491,2491,"12465053",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"ACADE",,,,,,1,,,,,,0,FALSE
+493,259,42,"LONG BLOCK - R&R [A]","1988-90 DeVille  FWD, 4.5L Eng  Consists of cylinder block fitted with pistons, rings, connecting rods,crankshaft and all bearings cylinder head, camshaft, timing chain belt and/ or sprockets. Includes: Clean and transfer fuel and electrical assemblies, engine mounts,manifolds valve covers, oil pan and pump, timing covers, water pump, clutch assembly and flywheel. Adjust fuel mixture, idle speed, timing and valves where applicable.Remove and replace A/C  components as listed.Replace power steering hose as listed.",0,0,0,1470,,21,19,19,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+496,259,26,"Trans kit",,1,12.31,24.62,24.62,"TF236",0,0,0,5,0,0,0,"ACD-",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+497,259,39,"Antifreeze",,3,4.25,8.5,8.5,"Anti !",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+500,260,1,"AXLE SHAFT ASSEMBLY - R&I [B]","1991-94 Explorer  Left  DOES NOT include alignment.",0,0,0,98,,1.4,1.4,1.4,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+502,260,3,"AXLE OUTPUT SHAFT - R&R [B]","1991-94 Explorer  Right Side, Front",0,0,0,217,,3.1,3.1,3.1,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+503,260,9,"U-joints",,3,13.25,26.5,26.5,"371",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+504,260,4,"FUEL PUMP - R&R [B]","1991-98  Explorer  DOES NOT include test.",0,0,0,112,,1.6,1.6,1.6,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+505,260,5,"ELECTRONIC INSTRUMENT CLUSTER - DIAGNOSIS [B]","1986-00  All applicable models  ""NOTE: Labor times listed are for R&R only and DO NOT include diagnosis time."" Includes: Message Center - Diagnosis.",0,0,0,49,,0.7,0.7,0.7,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+506,260,6,"INSTRUMENT CLUSTER PRINTED CIRCUIT - R&R [B]","1991-00  Explorer  ""NOTE: Labor times listed are for R&R only and DO NOT include diagnosis time.""",0,0,0,105,,1.5,1.5,1.5,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+507,260,7,"F RADIUS ARM BUSHING KIT",,1,24.06,49.11,49.11,"K8361",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,104,0,-1,0,,0,0,"MOGMG",,,,,,1,,,,,,0,FALSE
+508,260,8,"RADIUS ARM BUSHING - R&R [B]","1991-01 Explorer  Front, Both  DOES NOT include alignment.",0,0,0,210,,3,3,3,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+509,260,11,"FUEL TANK SENDER",,1,0,169.23,169.23,"F2TZ9H307L",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+510,260,10,"TWO WHEEL ALIGNMENT - ADJUST [B]","1991-94 Explorer  Front, Axle  DOES NOT include straightening or replacing of parts.",0,0,0,49.95,,0.71,1.1,1.1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+511,261,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+512,261,0.1,"OIL FILTER",,1,5.16,10.86,10.86,"1334",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+513,261,0.2,"ENGINE OIL",,5,1.25,1.95,1.95,"5/30",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,5,,,,,,0,FALSE
+514,263,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+515,263,2,"Diagnose lack of power/poor performance","Found restricted exhaust - needs further repair",0,0,0,52.5,,0.75,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine Lacks Power/Poor Performance",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+516,264,1,"Diagnose engine stalling condition","Found Low spark output. Replace parts as listed. Recheck",0,0,0,87.5,,1.25,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine runs and then stalls (stops running)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+517,264,2,"IGNITION COIL",,1,41.22,63.13,63.13,"00-258",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,126,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+518,264,3,"DISTRIBUTOR CAP",,1,7.42,15.83,15.83,"30102-PC6-005",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,126,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+519,264,4,"IGNITION ROTOR",,1,1.29,2.58,3.2,"30103-PA5-005",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,126,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+520,264,5,"TOWING","TOWING",0,45.4,0,56.75,,0,0,0,2,0,4,0,,1,1,1,1,1,0,0,0,0,0,5,0,0,3,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+521,264,6,"SPARK PLUG",,4,1.3,2.58,2.58,"6937",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,126,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+522,265,2,"Diagnose engine stalling condition","diagnostics -  found rear fuel filter plugged- replaced both fuel filters  replaced wire set",0,0,0,70,,1,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine runs and then stalls (stops running)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+523,266,2,"Diagnose No Start/Hard Start","Found coolant temp sensor and oxygen sensor defective.",0,0,0,70,,1,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engines Crank OK but either is hard to start or will not start cold - dies/hard to restart",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+524,267,2,"Check headlight operation","repair for overheated wiring from switch to relay",0,0,0,35,,0.5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"Headlights go out when brake applied",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+525,267,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,28.5,,0.41,0.21,0.21,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+526,267,3,"Change automatic transmission filter and gasket","Remove and replace automatic transmission filter and gasket with the removal of skid plate and/or cross member.  Added fresh transmission fluid.  Inspect for leaks.  Road test vehicle.",0,0,0,59.5,,0.85,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,117,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+527,268,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+528,268,2,"OIL FILTER",,1,4.43,9.32,9.32,"1348",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,19,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+529,268,3,"ENGINE OIL",,4.5,1.25,1.95,1.95,"10/40wt",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4.5,,,,,,0,FALSE
+530,269,1,"Diagnose engine stalling condition",,0,0,0,70,,1,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Recheck Engine runs and then stalls (stops running)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+531,269,0.1,"IGNITION COIL",,1,0,41.7,41.7,"04797293",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+532,269,0.2,"pigtail  ign. coil",,1,0,58.35,58.35,"04638991",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+533,269,0.3,"battery washers",,1,0,1,1,"noco pads",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+534,270,1,"Check heater switch/Lacks heater temp","Flush heater core,Replace thermostat",0,0,0,140,,2,2,2,5,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,"Heater lacks Temp -",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+535,269,2,"BATTERY  SERVICE",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"BATTERY SERVICE",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+536,267,0.1,"ENGINE OIL",,7,1.25,1.95,1.95,"10/40",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,7,,,,,,0,FALSE
+537,267,0.2,"AUTO. TRANS. FLUID",,6,1.25,1.95,1.95,"ATF",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+538,267,0.11,"Repair shock mounting bracket","Repair shock mounting bracket and replaced bolt",0,0,0,52.5,,0.75,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+539,267,0.3,"Air bag pressure","Checked airbag pressure and fill to specs. 
+Rear airbag pressure was  at 15lbs.",0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+540,267,0.4,"OIL FILTER",,1,4.6,9.65,9.65,"1061",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,8,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+541,267,0.5,"TRANSMISSION FILTER",,1,10.15,16.18,16.18,"B29",0,0,0,3,0,0,0,"B & L",1,1,1,1,1,0,0,0,0,0,1,147,1,0,0,1,0,8,76,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+542,267,0.6,"bolt/nut/washer",,1,0.75,1.5,1.5,"1/2"" bolt & nut",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+543,273,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+544,273,0.1,"Check headlight adjustment","Adjustment",0,0,0,24.5,,0.35,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+545,274,1,"TRANSMISSION ASSEMBLY - R&I [C]","Combination: FLYWHEEL - R&R",0,0,0,14,,0.2,0.2,0.2,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+546,274,2,"TRANSMISSION ASSEMBLY - R&I [C]","1984-00 Cherokee  4WD, Gas",0,0,0,322,,4.6,4.6,4.6,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+547,274,3,"TRANS. COOLER HOSE",,1,2.95,5.9,5.9,"B560",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+548,274,4,"Fitting",,3,1.85,3.7,3.7,"5 1/16 Splice",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+549,274,5,"AUTO. TRANS. FLUID",,9,1.25,0,1.95,"Atf",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,9,,,,,,0,FALSE
+550,274,6,"ENGINE OIL",,2,1.25,0,1.95,"10/40",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+551,274,7,"BRAKE CLEAN",,1,2.25,4.5,4.5,"Can Cleaner",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+552,274,8,"Flexplate",,1,36.95,73.9,73.9,"A314",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+553,274,11,"Trans Repair",,1,420.2,0,520.2,"A904",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+554,274,8.1,"Purple Wire Burned through","Repaired Vacuum line to heater control valve",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+555,274,9,"Air filter Rubber hose","Repaired",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+556,274,10,"Trans Cooler Lines","Repaired pin hole in trans cooler",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+557,274,8,"TRANSMISSION ASSEMBLY - R&I [C]","Combination: TRANSMISSION ASSEMBLY -  REPLACE",0,0,0,42,,0.6,0.6,0.6,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+558,275,1,"Diagnose Cause of Light","Found code 647 . Troubleshoot PCM.Found internal Trans failure. Remove for tear down . Rebuild as needed.Reinstall. Reset PCM. Refill and Road test.",0,0,0,455,,6.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,117,0,0,0,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+559,275,0.1,"TRANS. REBUILD",,1,1258.25,0,1658.25,"264j-6-29993",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+560,275,0.2,"AUTO. TRANS. FLUID",,9,1.25,2.5,1.95,"ATF",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,9,,,,,,0,FALSE
+561,277,1,"Inspect turn signal lights, switch and/or flasher","Replace Right Front Turn Signal Assembly",0,0,0,42,,0.6,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,-1,0,"Turn signal indicator either stays on or blinks too quickly",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+562,277,0.1,"lamp",,1,118.4,0,148,"04762256",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+563,277,2,"LIGHT BULB",,2,1.39,2.78,2.78,"3057",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+564,277,3,"LIGHT BULB",,1,0.8,1.6,1.6,"194",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+565,270,0.1,"ANTI-FREEZE COOLANT",,1,4.25,8.5,8.5,"Antifreeze",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+566,270,0.2,"HOSE CLAMP",,4,0.65,1.3,1.3,"0010",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+567,270,0.3,"HOSE CLAMP",,1,0.75,1.5,1.5,"0024",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+568,270,0.4,"THERMOSTAT",,1,5.81,11.62,11.62,"21200-v7205",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+569,273,0.01,"OIL FILTER",,1,5.16,10.86,10.86,"1334",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+570,273,0.02,"ENGINE OIL",,5,1.25,2.5,1.95,"10/40",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,5,,,,,,0,FALSE
+571,283,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+572,284,1,"Inspect Front End",,0,0,0,35,,0.5,0.5,0.5,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,146,0,4,5,0,0,0,0,-1,0,"Vehicle Hard to steer straight",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+574,285,1,"Inspect Front Axles","Remove and Replace Rightside CV Axle",0,0,0,70,,1,0.25,0.25,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,"Won't Move/Drive",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+575,286,1,"Front End Inspection","Inspect and advise",0,0,0,10,,0.14,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+576,286,2,"Pulls Braking. Customer requests Bleeding of brakes","Inspect and advise",0,0,0,16,,0.23,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+577,286,3,"Defroster hose under dash",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+578,286,4,"Reinstall Mirrors",,0,0,0,9.1,,0.13,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+579,286,5,"Install Turn signals, on hood",,0,0,0,9.1,,0.13,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+580,287,1,"Inspect charging system","Check charging system - found defective alternator",0,0,0,35,,0.5,0.5,0.5,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,130,0,4,6,0,0,0,0,-1,0,"Charging System Warning Lights Comes on/Glows",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+581,288,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+582,289,1,"Diagnose engine misfire freeway speed - also statrs chugging",,0,0,0,70,,1,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine is misfiring/lacks power",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+583,290,1,"Inspect Front End, Hit curb","Check alignment - no problems found  possible tire balance  problem",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+584,291,1,"Exhaust System","Replace Exhaust From Convertor Back",0,0,0,52.5,,0.75,0.75,0.75,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+585,291,2,"Heater Does not work","Replace Blower motor",0,0,0,35,,0.5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+587,293,1,"check heater fan operation","Test system . Found Defective Fan Motor.",0,0,0,17.5,,0.25,0.25,0.25,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"check no heat from heater",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+588,294,1,"CHECK WON'T SHIFT OUT OF GEAR","REPAIR TRANSFER CASE TO SHIFTER LINKGAE - REPLACE BUSHINGS",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,"won't shift out of gear",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+589,295,1,"Diagnose air conditioning system","Replace Parts as listed. Retro fit to R134a Evacuate and recharge",0,0,0,245,,3.5,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,115,0,1,6,0,0,0,0,-1,0,"Air conditioning is not cooling properly",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+590,295,2,"Check front brakes","Rotors slightly warped, at minimum specs now. Will need rotors to cure surge problem",0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"Front brake pulsates",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+591,295,3,"Coolant flush","Backflush System",0,0,0,52.5,,0.75,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,"oolant flush",0,0,,"None>","None>","None>",,,0,,,,,,0,FALSE
+592,296,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+593,288,2,"OIL FILTER",,1,5.55,10.25,10.25,"1394",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,23,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+594,288,3,"ENGINE OIL",,4,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+595,288,4,"Trip Check","Brake inspectiion - Fronts at 80% Rears at 40%
+Scan test computer for codes",0,0,0,52.5,,0.75,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+596,288,5,,"Last trans service?",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+597,298,1,"Diagnose No Start/Hard Start","REPLACED ALTERNATOR AS LISTED ALONG WITH P/S BELT",0,0,0,105,,1.5,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engines Crank OK but either is hard to start or will not start/shimmey at turn off",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+598,298,2,"Check fan operation-noise","Check fan operation/noise - found defective powersteering belt see hardstart repair for labor.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"fan noise - clank",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+599,296,2,"OIL FILTER",,1,5.16,10.86,10.86,"1334",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+600,296,3,"ENGINE OIL",,4,1.25,1.95,1.95,"10/40",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+614,301,1,"Diagnose engine stalling condition","Found defective carb / No idle curcuit. Remove for overhaul. Reinstall and set to best possible spec.",0,0,0,157.5,,2.25,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine runs and then stalls (stops running)
+unless gas pedal applied",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+615,302,1,"recheck idle","RECHECKED IDLE  - RESET BASE IDLE AIR LIMIT",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"recheck idle fluctuates",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+616,302,3,"check thermostat","REMOVE AND REPLACE THERMOSTAT AS LISTED",0,0,0,70,,1,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,"thermostat",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+618,304,1,"check noise","Tighten Front Suspension Bolts.Remove and tighten Spring Saddle Mounts.Tighten Crossmember mounts . Install front Driveline Slip yoke Seal. Reassemble. Tighten Front Sway bar Brackets To Front Differential.  Road Test",0,0,0,140,,2,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"noise",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+619,283,0.1,"OIL FILTER",,1,4.57,9.62,9.62,"1040",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,3,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+620,283,0.2,"Air Filter",,1,7.79,13.58,13.58,"6039",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+621,283,0.3,"ENGINE OIL",,4.5,1.25,1.95,1.95,"10/40wt",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4.5,,,,,,0,FALSE
+622,283,0.4,"WIPER BLADE",,2,5,7.95,7.95,"31-16",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+623,293,2,"BLOWER MOTOR",,1,64.08,146.21,146.21,"MM798",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+624,293,3,"BLOWER MOTOR - R&R [B]","1984-97 Cougar  w/Air Cond  ""NOTE 1: Times shown DO NOT include recover, evacuate and charge system. If necessary to open refrigerant system; refer to System Charge (Complete) for appropriate time."" ""NOTE 2: Times listed are for Factory and Dealer dash installed Integral Type air conditioning units only. Use necessary clock time for service of hang on units.""",0,0,0,70,,1,1,1,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+625,287,0.1,"ALTERNATOR",,1,107.36,214.72,214.72,"321-505",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+626,287,0.2,"Replace alternator","replaced alternator",0,0,0,56,,0.8,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+627,305,1,"FUEL Sender - R&R [B]","1994-01 Cab & Chassis  2 VPC, Diesel",0,0,0,122.5,,1.75,1.75,1.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+628,305,2,"IGNITION LOCK CYLINDER - R&R [B]","1984-01 Cab & Chassis  Tilt Column  ""NOTE: Labor times listed are for R&R only and DO NOT include diagnosis time.""",0,0,0,42,,0.6,0.6,0.6,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,6,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+629,305,3,"Fuel Gauge Inoperative","Test gauge in dash OK. found In Tank sender Defective",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+630,305,4,"Oil Light Is On","Found Engine Overfull On Oil , Drain and set To Proper Level. Replace Defective Oil Pressure Sensor",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+631,305,5,"Idles Low","Run On Board Computer Diagnostics. Reset Idle as Per OEM TSB.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+632,305,6,"Charge System Problem","Replace Battery. Repair Terminals . Repair Harness. Retest Glow plugs",0,0,0,52.5,,0.75,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+633,305,7,"Fuel Level Sender",,1,47,0,53.35,"04797738",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+634,305,6.1,"Oil Pressure Sensor",,1,40,80,47.5,"04741609",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+635,305,6.2,"Recode Ignition Lock Cylinder",,1,20,40,31.68,"Recode",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+636,305,6.3,"Fuel tank Seal",,1,7.5,15,8.8,"52018808",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+637,305,6.4,"BATTERY",,1,59.95,81.95,81.95,"MTP 24",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+638,305,6.5,"Terminal Washers",,4,1,2,2,"Ncp-2",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+639,305,6.6,"FUSE",,1,0.35,0.7,0.7,"10mini",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+640,305,6.7,"FUSE",,1,0.35,0.7,0.7,"20mini",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+641,306,1,"Diagnose Cause of Light","Remove and replace trans for overhaul",0,0,0,367.5,,5.25,5.25,5.25,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+642,306,0.1,"trans overhaul",,1,1355,1655.75,1655.75,"trans overhaul",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+643,307,1,"check wiper operation","Found defective wiper motor. Remove and replace.
+Additonal time due to aftermarket alarm sytem in the way.",0,0,0,210,,3,3,3,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"wipers inop",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+644,306,2,"AUTO. TRANS. FLUID",,8,1.25,2.55,2.55,"ATF",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,8,,,,,,0,FALSE
+645,285,0.1,"cv axle",,1,99.99,110,110,"40-15032",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+646,285,0.2,"50%  core charge due to non-repairable damage",,1,17.5,35,35,"cv axle core",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+647,263,0.1,"OIL FILTER",,1,4.84,10.2,10.2,"1381",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,27,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+648,263,0.2,"ENGINE OIL",,5,0.75,1.95,1.95,"10/40wt",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,5,,,,,,0,FALSE
+649,263,1.1,"Inspect Brake System","adjust e- brake and rear brakes",0,0,0,17.5,,0.25,0.25,0.25,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,109,0,4,5,0,0,0,0,-1,0,"Brake Warning Lights Comes On-Stays On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+650,303,2,"Diagnose","Found Defective Blower motor ,Drawing Too 
+Much Amperage.Replace Blower Motor and Retest.",0,0,0,112,,1.6,0.5,0.5,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"Blows fuse",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+651,303,3,"BLOWER MOTOR",,1,58.57,133.63,133.63,"MM862",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+653,312,1,"Diagnose engine stalling condition-","Scope test/scan test - fuel pressure test -  could not simulate problem.",0,0,0,70,,1,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Engine runs and then stalls (stops running)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+654,265,3,"Tune Up","Tune Up - replaced pieces",0,0,0,59.95,,0.86,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+655,265,2.1,"dist cap",,1,7.83,15.66,15.66,"30102-pd2-66i",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+656,265,2.2,"dsit rotor",,1,2.6,5.2,5.2,"30103-pa5-005",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+657,265,2.3,"ign wire set",,1,17.28,34.57,34.57,"9112",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+658,265,2.4,"spark plugs",,4,1.33,2.66,2.74,"7501",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+659,265,2.5,"fuel filter",,1,4.94,9.87,9.87,"16235-pc1-013",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+660,265,2.6,"cleaner",,1,3.48,6.95,6.95,"x66a",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+661,265,2.7,"fuel additive",,1,2.98,5.95,5.95,"seafoam",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+662,265,4,"fuel filter",,1,2.64,5.27,5.27,"16900-sa5-004",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+663,314,1,"Transfercase clutches","replace with updates as listed",0,0,0,350,,5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+664,314,2,"repair kit",,1,223.18,278.98,278.98,"31067aa000",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+665,314,3,"valve assembly",,1,66.66,83.33,83.33,"31942aa090",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+666,314,4,"pt transfer",,1,77.42,96.77,96.77,"31523aa130",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+667,314,5,"gasket",,2,5.54,6.93,6.93,"44022aa020",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+668,314,6,"AUTO. TRANS. FLUID",,3,0.75,1.95,1.95,"atf",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+669,316,1,"BATTERY",,1,0,74.95,74.95,"MT78",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+670,286,4.1,,"Needs complete brake inspection 
+strut rod bushings 
+l/upper control arm & bushings
+r/s upper control arm & bushings 
+4 ball joints 
+pitman arm and possible center link ( crash part)
+tie rods",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+671,318,1,"Check coolant leak",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"Coolant leak  -possible hose by radiator",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+672,294,2,"Tune Up","REPLACED ALL TUNE UP PIECES",0,0,0,59.95,,0.86,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"tune up",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+673,319,1,"DISTRIBUTOR ROTOR",,1,3.07,6.14,6.14,"C418A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,32,0,-1,0,,0,0,"DR DE",,,,,,0,,,,,,0,FALSE
+674,319,2,"DISTRIBUTOR CAP",,1,8.08,16.16,16.16,"C320A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,32,0,-1,0,,0,0,"DR DE",,,,,,0,,,,,,0,FALSE
+675,319,3,"FUEL FILTER",,1,0,0,0,"GF693",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,32,0,-1,0,,0,0,"AC DE",,,,,,0,,,,,,0,FALSE
+676,319,4,"BREATHER FILTER",,1,0,0,0,"FB101B",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,32,0,-1,0,,0,0,"AC DE",,,,,,0,,,,,,0,FALSE
+677,319,5,"BREATHER FILTER",,1,4.26,8.52,8.52,"FB101",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,32,0,-1,0,,0,0,"AC DE",,,,,,0,,,,,,0,FALSE
+678,319,6,"AIR FILTER",,1,7.34,14.68,14.68,"A1267C",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,32,0,-1,0,,0,0,"AC DE",,,,,,0,,,,,,0,FALSE
+679,294,3,"DISTRIBUTOR ROTOR",,1,3.07,6.14,6.14,"C418A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+680,294,4,"DISTRIBUTOR CAP",,1,8.08,16.16,16.16,"C320A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+683,294,7,"BREATHER FILTER",,1,4.26,8.52,8.52,"FB101",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+684,294,8,"AIR FILTER",,1,7.34,14.68,14.68,"A1267C",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+691,320,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+692,323,2,"Brake inspection - Brake noise/grind","Brake inspection Rears at 70% Fronts metal to metal -
+Remove and replace front brakes with calipers,hoses and rotors- bleed, adjust and road test.",0,0,0,105,,1.5,1.5,1.5,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+693,323,3,"Exhaust Noise -","Inspect exhaust- remove and replace exhaust as listed",0,0,0,52.5,,0.75,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+694,323,4,"Inspect belts-","Remove and replace p/s belt and acc/alt belt as listed",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+695,323,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+696,324,1,"Tune Up",,0,0,0,59.95,,0,0.85,0.85,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+697,325,1,"Check died/no start after overhaet","Needs engine ! Customer to tow away",0,0,0,0,,0,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"Engine died/nostart after overhaet",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+698,326,1,"Diagnose No Start/Hard Start","REPAIR IGNITION SOURCE AT STARTER - TEST CHARGING SYSTEM AND STARTING SYSYTEMS",0,0,0,87.5,,1.25,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,3,0,0,0,0,-1,0,"Engines Crank OK but either is hard to start or will not start",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+699,318,2,"THERMOSTAT - R&R [D]","1983-95 Pickup  In-Line4, Gas",0,0,0,56,,0.8,0.8,0.8,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+700,318,3,"WATER PUMP - R&R [B]","1983-95 Pickup  In-Line4, Gas",0,0,0,105,,1.5,1.5,1.5,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+701,318,4,"RADIATOR - R&R [D]","1979-95  Pickup",0,0,0,63,,0.9,0.9,0.9,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+702,323,5,"BRAKE Hose",,2,26.52,53.04,53.04,"BH38413",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+703,323,6,"CALIPER",,1,43.83,103.12,103.12,"L45882IQ",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+704,323,7,"CALIPER",,1,43.83,103.12,103.12,"L45881IQ",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+705,323,4.1,"BRAKE Clean",,1,2.48,4.95,4.95,"Brake Clean",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+706,323,4.2,"BRAKE FLUID",,1,2.25,4.5,4.5,"Brake Fluid",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+707,320,2,"OIL FILTER",,1,5.16,8.16,8.16,"1334",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+708,323,4.01,"BRAKE ROTOR",,2,29.23,98.76,98.76,"43512-32120",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+709,323,4.02,"MUFFLER",,1,75,150,150,"228-837",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+710,323,4.03,"EXHAUST GASKET",,1,1.94,3.94,3.94,"256-214",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+711,323,4.04,"BELT",,1,4.16,12.5,12.5,"3pk--0760",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+712,323,4.05,"BELT",,1,8.05,15.87,15.87,"5pk-1110",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+713,294,9,"Towing","Towing",0,0,0,75,,0,0,0,1,0,4,0,,1,1,1,1,1,0,0,0,0,0,28,0,0,3,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+716,329,1,"SHOCK ABSORBER",,2,45.68,91.36,64.69,"58568",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+717,329,2,,"PARTS ONLY",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+718,330,1,"REPLACE SERPENTINE BELT TENSIONER","REPLACE SERPENTINE BELT TENSIONER",0,0,0,35,,0.5,0.5,0.5,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+719,331,1,"50,000 SERVICE","As per Check List",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,1,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+720,302,4,"THERMOSTAT",,1,6.32,12.64,12.64,"RT1086",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+721,302,5,"ANTI-FREEZE COOLANT",,1,4.25,8.5,8.5,"COOL",0,0,0,1,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,1,,,,,,0,FALSE
+722,298,3,"ALTERNATOR",,1,91.17,182.34,182.34,"321-234",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+723,324,2,"SPARK PLUG WIRE",,1,66.8,83.5,83.5,"04728944",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+724,324,3,"POLLUTION CONT.VALVE",,1,7.22,9.02,9.02,"04792649AA",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+725,324,4,"THERMOSTAT",,1,7.48,9.35,9.35,"04573560AB",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+726,324,5,"GASKET",,1,1.28,1.6,1.6,"04781661AA",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+727,324,6,"AIR FILTER",,1,11,13.75,13.75,"04573031",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+728,324,7,"FUEL FILTER",,1,20.68,25.85,25.85,"04554040",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+729,294,10,"GROMMET",,1,2.16,2.7,2.7,"03575333",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+730,298,0.1,"SHIMMEY AT SHUT OFF","ADJUST CARB PER LAST REPAIR",0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+731,298,0.2,"BELT",,1,6.16,15.8,15.8,"25-7375",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+732,298,0.3,"BELT",,1,6.22,15.95,15.95,"25-7374",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+733,294,1.1,"GROMMET",,1,2.16,2.7,2.7,"03575333",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+734,294,1.2,"POLLUTION CONT.VALVE",,1,5.15,6.44,6.44,"53031135",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+735,294,1.3,"GROMMET",,1,3.3,4.13,4.13,"03467791",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+736,294,1.4,"SPARK PLUG",,8,3.45,3.45,3.45,"RC12YC",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,8,,,,,,0,FALSE
+737,294,1.31,"FUEL FILTER",,1,13.19,22.74,22.74,"3316",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+738,324,8,"SPARK PLUG",,6,1.4,2.8,2.8,"RC12LYC",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+739,324,9,"CLEANER",,1,3.48,6.95,6.95,"X66A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+740,324,10,"FUEL ADDITIVE",,1,2.98,5.95,5.95,"SEAFOAM ADDITIVE",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+742,324,12,"CHECK ENG LIGHT ON","CHECK ENG LIGHT DIAGNOSTICS - SCOPE TEST/SCAN TEST FOUND COSES PO401 & P1281 RESET AND RECHECK",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+743,324,13,"REPLACE THERMOSTAT","REPLACE THERMOSTAT AS LISTED",0,0,0,70,,1,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+744,324,14,"REPLACE WIRE SET","REPLACE WIRE SET AS LISTED",0,0,0,105,,1.5,1.5,1.5,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+745,324,15,"REPLACE FUEL FILTER AND CLEAN IAC AND THROTTLE BODY","REPLACE FUEL FILTER AND CLEAN IAC AND THROTTLE 
+BODY",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+746,323,8,"OIL FILTER",,1,5.55,10.25,10.25,"1394",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,23,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+747,323,9,"ENGINE OIL",,4,0.98,1.95,1.95,"10/40WT",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+748,292,1,"Oil Leak","Found Oil Filter Adapter to Block Gasket Leaking. Remove and Replace Gasket and related Parts as listed. Clean Arewa and Recheck for Leaks.",0,0,0,175,,2.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+749,292,2,"GASKET",,1,8.07,16.14,10.09,"F6AZ6840AA",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+750,292,3,"ANTI-FREEZE COOLANT",,1,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,1,,,,,,0,FALSE
+751,292,4,"ENGINE OIL",,1,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,1,,,,,,0,FALSE
+752,320,3,"ENGINE OIL",,4,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4,,,,,,0,FALSE
+753,294,1.5,"REPLACE FUEL FILTER","REPLACE FUEL FILTER AS LISTED",0,0,0,17.5,,0.25,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+754,320,4,"AIR FILTER",,1,0.01,5.02,5.02,"17220-PT2-305",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+755,330,0.1,"TENSIONER ASSEMBLY",,1,39.16,78.32,48.95,"F77Z6B209AA",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+756,318,5,"WATER PUMP GASKET",,1,1.95,4.06,4.06,"35340",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+757,318,6,"RADIATOR",,1,88.71,186.49,186.49,"895",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+758,318,7,"WATER PUMP",,1,35.41,74.43,74.43,"16100-39346",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+759,318,6.1,"HOSE",,1,6.37,12.74,12.74,"361",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+760,318,6.2,"HOSE",,1,6.2,12.4,12.4,"120",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+761,318,6.3,"HOSE",,1,5.44,10.88,10.88,"192",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+762,318,6.4,"THERMOSTAT",,1,4.79,10.22,10.22,"90916-03078",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+763,318,6.5,"THERMOSTAT GASKET",,1,1.06,1.89,1.89,"16341-35010",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+766,307,2,"WIPER MOTOR",,1,117.13,292.83,292.83,"12368696",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+768,295,4,"A/C COMPRESSOR",,1,247.58,495.16,495.16,"15-20185",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+769,295,5,"ACCUMULATOR",,1,49.22,98.44,98.44,"15-1596",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+770,295,4.1,"PRESS CYL",,1,9.06,18.12,18.12,"15-2832",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+771,295,4.2,"AC CONDENSOR",,1,5.51,11.02,11.02,"15-5378",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+772,291,3,"BLOWER MOTOR",,1,0,0,0,"15-8537",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+773,291,4,"Clamps",,4,0.98,1.96,1.5,"733-5337",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+774,291,5,"Exhaust Pipe",,1,18.74,37.48,29.05,"43286",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+775,291,6,"Hanger",,1,2.74,0,4.74,"35148",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+776,291,7,"MUFFLER",,1,69.84,139.68,100.57,"22500",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+777,291,8,"Tailpipe",,1,11.76,23.52,19.6,"45807",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+778,318,8,"RADIATOR CAP",,1,6.07,12.14,12.14,"10227",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+779,318,9,"Antirust",,1,1.95,5.25,5.25,"Mac #13",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+780,318,10,"HOSE CLAMP",,2,0.75,1.5,1.5,"0020",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+781,318,11,"HOSE CLAMP",,4,0.8,1.6,1.6,"0024",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+782,318,12,"ANTI-FREEZE COOLANT",,1.5,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,1.5,,,,,,0,FALSE
+783,344,1,"Runs Bad","Scope Test, Replace defective Plug wires. Install new cap and rotor. Reset to tuneup specs.",0,0,0,87.5,,1.25,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+784,344,2,"DISTRIBUTOR CAP",,1,15.8,21.85,21.85,"F356",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+785,344,3,"IGNITION ROTOR",,1,1.74,2.4,2.4,"F406Z",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+786,344,4,"SPARK PLUG WIRE",,1,32.38,64.76,64.76,"700233",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+787,345,2,"DIAGNOSTICS FOR GAUGE LIGHT ON","DIAGNOSTICS SCOPE TEST/SCAN TEST FOUND DEFECTIVE OIL PRESSURE SENDER - RECOMMEND REPLACEMENT WITH OIL CHANGE",0,0,0,35,,0.5,0.5,0.5,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"cHECK GAUGES LIGHT - OIL PRESSURE GUAGE SLOW TO RESPOND",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+788,345,0.1,"OIL PRESSURE SWITCH",,1,0,7.56,7.56,"SW5192",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+789,346,1,"Diagnose engine overheating",,0,0,0,52.5,,0.75,0.75,0.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,115,0,4,4,0,0,0,0,-1,0,"Engine is overheating (steam, losing coolant, pressure relief at radiator cap or recovery system)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+790,347,1,"INSPECT FOR NOISE","See waterpump repairs",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,"RUMBLE NOISE",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+791,295,0.1,"FREON",,3.5,5.5,15,15,"R134A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,115,0,0,0,1,0,0,153,-1,0,,0,0,"AC DE",,,,,,3.5,,,,,,0,FALSE
+792,295,0.2,"ANTI-FREEZE COOLANT",,2.5,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,2.5,,,,,,0,FALSE
+793,295,0.3,"R12 to R134a conversion kit",,1,20,65,65,"RetroFit Kit",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,115,0,0,0,1,0,8,154,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+794,348,1,"INSPECT 4X4 OPERATION","DIAGNOSTICS - FOUND FRONT DIFF ACTUATOR DEFECTIVE",0,0,0,70,,1,1,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+795,349,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+796,347,2,"DASH LIGHTS  INOP","Replace bulb",0,0,0,21,,0.3,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+798,347,4,"MUD FLAPS","Install Customer supplied parts",0,0,0,14,,0.2,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+799,347,5,"SERPENTINE BELT",,1,10.83,21.66,21.66,"5K435",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+800,347,6,"PS PUMP BELT",,1,6.6,13.2,13.2,"15405",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+801,347,7,"FAN, AC & PS PUMP BELT",,1,8.51,17.02,17.02,"15560",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+802,347,8,"FAN & AIR PUMP BELT",,1,5.83,11.66,11.66,"15330",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+803,347,9,"WATER PUMP-NEW",,1,34.21,68.42,68.42,"252-595",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DWPDE",,,,,,1,,,,,,0,FALSE
+804,350,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+805,295,6,"CLAMP",,1,0.56,1.11,1.11,"24",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+806,295,7,"CLAMP",,1,0.56,1.11,1.11,"10",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+808,295,9,"BELT",,1,19.79,39.58,39.58,"25-060956",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+810,350,2,"OIL FILTER",,1,5.16,10.86,10.86,"1334",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+811,350,3,"ENGINE OIL",,4,1.25,1.95,1.95,"10/40",0,0,0,3,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4,,,,,,0,FALSE
+812,352,1,"SHIFT INDICATOR - INOP","FOUND DEFECTIVE SHIFT MECHANISM- rEMOVE AND REPLACE GEAR SELECTOR AS LISTED.",0,0,0,105,,1.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+813,352,2,"GENERAL INSPECTION OF VEHICLE:","*BELTS
+*V/C GASKETS
+* TUNE UP PARTS NEW
+*BRAKES 50%",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+816,346,4,"MOLDED COOLANT/HTR HOSE",,1,10.81,21.62,21.62,"18072L",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+817,346,5,"MOLDED COOLANT/HTR HOSE",,1,9.99,19.98,19.98,"18158L",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+818,346,6,"BYPASS HOSE",,1,5.27,13.18,13.18,"9809",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+819,346,7,"LOWER RADIATOR HOSE",,1,7.08,17.7,17.7,"7424",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+820,346,8,"UPPER RADIATOR HOSE",,1,5.71,14.28,14.28,"7556",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+821,346,9,"DISTRIBUTOR ROTOR",,1,3.08,6.16,6.16,"F430",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+822,346,10,"DISTRIBUTOR CAP",,1,12.83,25.66,25.66,"F305Z",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+823,346,11,"PCV VALVE",,1,3.04,6.08,6.08,"CV898C",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+824,346,12,"FUEL FILTER",,1,4.1,8.2,8.2,"GF423",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+825,346,13,"BREATHER FILTER",,1,1.68,3.36,3.36,"FB105",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+826,346,14,"AIR FILTER",,1,4.52,9.04,9.04,"A117C",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+827,346,15,"RADIATOR",,1,150,258,258,"1682",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+828,346,16,"THERMOSTAT-192F/88C",,1,4.33,8.66,8.66,"131-87",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+829,346,22,"WATER PUMP-NEW",,1,52.33,104.66,104.66,"55-3413",0,0,0,6,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+830,348,2,"ACTUATOR/4X4",,1,72.19,90.24,90.24,"26013495",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+831,346,20,"ANTI-FREEZE COOLANT",,2,4.25,8.5,8.5,"COOL",0,0,0,3,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,2,,,,,,0,FALSE
+833,345,1,"REPLACE OIL PRESSURE SENDER","REPLACE OIL PRESSURE SENDER AS LISTED - RETEST",0,0,0,42,,0.6,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+834,345,0,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+835,345,3,"OIL FILTER",,1,4.28,9.02,9.02,"1515",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,33,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+836,345,4,"ENGINE OIL",,5,0.98,1.95,1.95,"10/40WT",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,5,,,,,,0,FALSE
+838,346,17,"RADIATOR - R&R [D]","1987-90  Wrangler",0,0,0,63,,0.9,0.9,0.9,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+842,346,22.1,"SPARK PLUG",,6,1.4,2.8,2.8,"RFN14LY",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+843,348,0.1,"REMOVE AND REPLACE FONT DIFF ACTUATOR","REMOVE AND REPLACE FRONT DIFF ACTUATOR AS LISTED - RETEST/ROADTEST",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+844,295,2.1,"CHECK FRONT FOGLIGHTS","FOUND DEFECTIVE RELAY AND HARNESS - PARTS ON ORDER",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+845,346,24,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.7,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+846,346,25,"OIL FILTER",,1,5.58,10.64,10.64,"1626",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,37,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+847,346,26,"ENGINE OIL",,6,1.25,1.95,1.95,"10/40",0,0,0,3,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,6,,,,,,0,FALSE
+848,349,0.1,"GENERAL INSPECTION","BRAKE INSPECTION - REARS 75% FRONTS 30%",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+849,349,0.2,"OIL FILTER",,1,4.57,9.62,9.62,"1040",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,3,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+850,347,10,"WATER PUMP - R&R [B]","Add Time: Where Air Cond interferes add",0,0,0,28,,0.4,0.4,0.4,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+851,347,11,"WATER PUMP - R&R [B]","1982-87 El Camino  V8, Gas",0,0,0,154,,2.2,2.2,2.2,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+852,349,0.3,"ENGINE OIL",,5,0.98,1.95,1.95,"10/40WT",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,5,,,,,,0,FALSE
+853,347,2.1,"ANTI-FREEZE COOLANT",,1,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,1,,,,,,0,FALSE
+854,347,2.2,"bulbs",,2,0.75,1.5,1.5,"194",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+855,354,1,"DIAGNOSE LACKS TEMP - POSSIBLE  HEATER CORE","Flush heater core, Plugged solid , flush block and radiator- road test",0,0,0,140,,2,0,0,7,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+856,354,2,"REPLACE FUEL FILTER","as listed",0,0,0,17.5,,0.25,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+857,354,3,"REPAIR FRONT PARKING BRAKE CABLE","Relaced with customer supplied part.",0,0,0,140,,2,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+858,354,4,,"SAVE OLD PARTS - PLEASE",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+859,356,1,"FAILED EMISSIONS","DIAGNOSTICS - SCOPE TEST/SCAN TEST  FOUND CODE PO173 -EGO NOT SWITCHING -DEFECTIVE  OXYGEN SENSOR/RECOMMEND FULL TUNE WITH WIRES",0,0,0,70,,1,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+860,346,14.1,"HEATER FITTING",,1,5.47,7.7,7.7,"660-1523",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+861,289,2,"ELEC FUEL PUMP ASSY",,1,225.82,451.64,451.64,"43-909",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+862,357,1,"SEAL",,2,6.94,15.42,15.42,"4160",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+863,357,2,"CALIPER",,1,63.26,148.84,148.84,"L55460FM",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+864,357,3,"CALIPER",,1,63.26,148.84,148.84,"L55461FM",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+865,357,4,"BRAKE HOSE",,2,9.9,13.2,13.2,"PBH77235",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+866,357,5,"BRAKE SHOES",,1,32.75,77.06,77.06,"R358",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+867,357,6,"BRAKE HARDWARE KIT",,1,11.44,22.88,22.88,"H7181",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+869,357,7,"WHEEL CYLINDERS",,1,6.69,8.92,38.92,"PWC3725",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+870,357,8,"WHEEL CYLINDERS",,1,6.69,38.92,38.92,"PWC3726",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+871,289,6,"FUEL FILTER",,1,10.35,20.7,20.7,"3311",0,0,0,5,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+872,289,4,"FUEL FILTER - R&R [B]","1995-99  Aurora",0,0,0,17.5,,0.25,0.7,0.7,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+873,289,5,"FUEL PUMP - R&R [B]","1995-99  Aurora  inc. additional labor to remove fuel module retainer ring.",0,0,0,157.5,,2.25,0.9,0.9,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+874,357,6.1,"BRAKE INSPECTION  -","found brakes at 5% front and rear 
+REMOVE AND REPLACE FRONT AND REAR BRAKES WITH FRONT WHEEL PACK.",0,0,0,262.5,,3.75,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+875,357,6.2,"FLUSH BRAKE SYSTEM","FLUSH SYSTEM",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+876,357,6.3,"BRAKE FLUID",,3,2.95,5.95,10,"BRAKE FLUID",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+877,357,6.4,"BRAKE PARTS CLEANER",,1,2.95,5.95,5.95,"BRAKE CLEAN",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+878,357,6.5,"TRUE DRUMS",,2,7,14,14,"DRUMS TRUED",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+879,357,6.6,"ROTORS TRUED",,2,14,28,28,"TRUE ROTORS",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+880,357,6.7,"AXLE  ADJUTER KITS",,2,5.84,8.74,8.74,"H2093",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+881,349,2,"RETAINER GASKET",,1,3.72,5.72,5.72,"21010287",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+882,266,1,"DISTRIBUTOR CAP - R&R [C]","1989-01 Trooper, Trooper II  V6  Includes: Replace rotor.",0,0,0,42,,0.6,0.6,0.6,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+884,266,3,"temp sensor",,1,10.95,21.9,21.9,"213-310",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,113,0,0,0,1,0,8,0,-1,0,,0,0,"ACEDE",,,,,,1,,,,,,0,FALSE
+885,349,4,"TRANS FILTER",,1,19.52,39.04,39.04,"24203770",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+886,266,4,"DISTRIBUTOR CAP",,1,14.71,29.42,29.42,"D341",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+887,266,5,"IGNITION ROTOR",,1,6.79,13.58,13.58,"D434",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+888,349,5,"GASKET",,1,13.83,26.44,26.44,"24203590",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+889,266,6,"Replace coolant temp sensor","Replace coolant temp sensor.( ECM)",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+890,346,27,"Antirust",,1,1.95,4.95,4.95,"macs 13",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+891,346,28,"HOSE CLAMP",,3,0.65,1.3,1.3,"24",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+892,346,29,"HOSE CLAMP",,4,0.6,1.2,1.2,"10",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+893,346,30,"HOSE CLAMP",,2,0.62,1.24,1.24,"12",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+894,356,0.1,"REPLACE OXYGEN  SENSOR","AS LISTED RETEST.",0,0,0,49,,0.7,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+895,356,0.2,"REPLACE  FUEL  FILTER","AS LISTED",0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+896,356,0.3,"TUNE UP","REPLACE ALL TUNE UP PIECES AND SET TO SPEC'S",0,0,0,59.95,,0.86,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+897,356,0.4,"REPLACE PLUG WIRES","AS LISTED",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+898,356,0.5,"CLEAN IAC AND THROTTLE BODY","AS LISTED",0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+900,356,2,"OXYGEN SENSOR",,1,70.39,160.59,160.59,"DY618",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+901,356,3,"SPARK PLUG",,4,2.24,4.49,4.49,"AGSF34C",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+902,356,4,"SPARK PLUG WIRE",,1,29.53,59.06,59.06,"WR5762",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+903,356,5,"POLLUTION CONT.VALVE",,1,2.92,5.84,5.84,"EV157",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+904,356,6,"AIR FILTER",,1,7.73,15.46,15.46,"6133",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,65,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+905,356,7,"FUEL FILTER",,1,10.35,20.7,20.7,"3097",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+906,356,8,"BREATHER FILTER",,1,1.26,2.52,2.52,"6967",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+907,356,9,"CARB. CLEANER",,1,4.18,6.95,6.95,"X66A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,131,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+908,356,10,"FUEL ADDITIVE",,1,2.98,5.95,5.95,"SEAFOAM",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+910,349,6,"AUTO. TRANS. FLUID",,7.5,1.25,1.95,1.95,"ATF",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,112,-1,0,,0,0,"ATF",,,,,,7.5,,,,,,0,FALSE
+911,369,1,"Diagnose engine stalling condition",,0,0,0,70,,1,1,1,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,0,0,0,0,0,0,-1,0,"Engine runs and then stalls (stops running)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+912,370,1,"Inspect for water leak","Found Intake manifold leaking. Remove and replace as listed",0,0,0,315,,4.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+917,372,1,"Check Battery/ Battery connections- part of bolt broken","Battery Service / Remove and replace bolt as listed",0,0,0,17.5,,0.25,0.25,0.25,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+918,372,2,"General Inspection/Test Drive - Noises","General Inspection - road test  found brake noise cold.
+also recommend all hoses, thermostat and coolant flush
+Slight wheel bearing noise fronts.Needs further inspection and diagnosis",0,0,0,17.5,,0.25,0.25,0.25,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+919,372,3,,"Call With Estimate Prior to Repair over $50.00",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+920,373,1,"Inspect Front End-","Found Broken upper ball joint. Replace upper control arm as listed. Install brake line and lower ball joint. Road Test.",0,0,0,140,,2,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+921,374,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+922,375,1,"Inspect for Front End Noise",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+923,376,1,"Inspect Front Differential --","Remove and replace front differential center section as provided.",0,0,0,350,,5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+924,284,8,"STEERING GEAR (COMPLETE) - R&R [B]","1995-01 Tahoe  Power Steering  Includes: Manual and power Rack Pinion, Worm & Ball Nut and Rack Piston assemblies. Adjust Toe-in on Rack & Pinion models. DOES NOT include transfer parts or alignment.",0,0,0,105,,1.5,1.5,1.5,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+925,284,9,"CHARGING SYSTEM - CHECK [B]","1974-01  All applicable models  Includes: Check battery, regulator and alternator output.",0,0,0,17.5,,0.25,0.6,0.6,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+927,284,11,"ALTERNATOR-REMAN",,1,114.91,229.82,229.82,"321-1107",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DR AC",,,,,,1,,,,,,0,FALSE
+928,284,12,"STEERING GEAR-REMAN",,1,323.37,523.37,523.37,"27-7576",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"AA1CD",,,,,,1,,,,,,0,FALSE
+933,284,4,"ALTERNATOR ASSEMBLY - R&R [C]","1995-99 Tahoe  Gas",0,0,0,42,,0.6,0.6,0.6,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+936,284,13,"Alignment","Alignment",0,0,0,49.95,,0.71,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+937,331,2,"Tune Up","Replace all Tune Up pieces as listed",0,0,0,59.95,,0.86,0.86,0.86,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+938,331,3,"Replace Fuel Filter","Replace Fuel Filter as listed",0,0,0,17.5,,0.25,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+939,331,4,"Fuel Injection Service","Fuel Injection Service",0,0,0,99.95,,1.43,1.43,1.43,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+940,331,5,"Transmission service","Trans service and drain torque convertor",0,0,0,70,,1,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+941,331,6,"Differential Service","differential  Service/ Front and rear",0,0,0,70,,1,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+942,331,7,"Battery Service","Replace Battery/battery service",0,0,0,8.5,,0.12,0.12,0.12,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+943,331,8,"Check low temp on gauge and coolant smell","Repair connection at sender.",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+944,331,9,"Brake Inspection","Found front brakes at 10% -with uneven wear - recommend calipers and hoses - rears at 40%  
+Remove and replace front brakes with calipers and hoses,bleed ,adjust and road test.",0,0,0,192.5,,2.75,2.75,2.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+945,331,10,"AIR FILTER",,1,8.31,16.62,16.62,"6174",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,69,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+946,331,11,"FUEL FILTER",,1,8.89,15.46,15.46,"3296",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+947,331,12,"SPARK PLUG",,8,2.05,6.95,6.95,"ASF42P",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,8,,,,,,0,FALSE
+948,331,13,"POLLUTION CONT.VALVE",,1,3.35,4.63,4.63,"CV906",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+949,331,14,"DISTRIBUTOR CAP",,1,14.86,20.55,20.55,"F313Z",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+950,331,15,"DISTRIBUTOR Rotor",,1,2.78,3.85,3.85,"F426",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+951,331,16,"BATTERY",,1,76.95,92.95,92.95,"MTP-65",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+952,331,17,"BATTERY TERMINAL",,1,0.5,1,1,"noco pads",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+953,331,18,"TRANS. FILTER KIT",,1,29.87,42.68,42.68,"B-144",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+954,331,19,"AUTO. TRANS. FLUID",,20,1.25,1.95,1.95,"ATF",0,0,0,3,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,112,-1,0,,0,0,"ATF",,,,,,20,,,,,,0,FALSE
+955,331,18.1,"GEAR OIL",,12,0.88,1.75,1.75,"80/90",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,1,0,0,1,0,8,161,-1,0,,0,0,"OIL",,,,,,12,,,,,,0,FALSE
+956,374,2,"OIL FILTER",,1,4.69,9.88,9.88,"1085",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,11,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+957,374,3,"LIGHT BULB",,3,0.71,1.73,1.73,"922",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+958,374,4,"ENGINE OIL",,6,0.98,1.95,1.95,"10/40wt",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+961,378,1,"Rechech - check eng light - comes on at first start up",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+962,356,11,,"CO - AT CRUISE - .15
+      - AT IDLE  -01 
+
+
+HC- AT CRUISE - 10 
+     - AT IDLE  -  9",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+967,284,14,"FUEL PUMP - R&R [B]","1995-01 Tahoe  4 Door, Gas",0,0,0,168,,2.4,2.4,2.4,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+968,284,15,"ELEC FUEL PUMP ASSY",,1,169.37,338.74,338.74,"MU138",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+969,284,16,"IDLER ARM - R&R [B]","1995-01 Tahoe  4WD  DOES NOT include alignment.",0,0,0,77,,1.1,1.1,1.1,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+970,284,17,"IDLER ARM",,1,47.79,95.58,97.09,"K6447",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,146,1,4,5,1,0,8,0,-1,0,,0,0,"MOGMG",,,,,,1,,,,,,0,FALSE
+971,375,3,"AXLE U-JOINT",,1,13.45,26.9,21,"371",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"TRWTR",,,,,,1,,,,,,0,FALSE
+972,375,4,"AXLE SHAFT ASSEMBLY - R&I [B]","Combination: AXLE SHAFT JOINT - R&R Each",0,0,0,28,,0.4,0.4,0.4,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+973,375,5,"AXLE SHAFT ASSEMBLY - R&I [B]","1982-91 Suburban  One Side",0,0,0,112,,1.6,1.6,1.6,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+974,375,2,"UNIVERSAL JOINT - R&R OR O/H [B]","1974-99 Suburban 4WD, One Piece Driveline  To Front Axle, Front, Joint",0,0,0,63,,0.9,0.9,0.9,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+975,375,2.1,"UNIVERSAL JOINT",,1,14.5,18.95,18.95,"369",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+976,331,20,"BRAKE HOSE",,1,14.82,32.94,32.94,"78206",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+978,331,21,"BRAKE HOSE",,1,14.82,32.94,32.94,"78207",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+985,382,1,"Cuts Out /Hard Start-Service Light","Diagnostics - Scope Test/Scan Test found code 15 -coolant temp sensor defective also recommend plug wires",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+986,382,2,"coolant temp sensor",,1,10.99,21.98,21.98,"15326386",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+987,382,3,"SPARK PLUG WIRE",,1,23.12,46.24,46.24,"704Q",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+988,331,22,"CALIPER",,1,44.43,104.54,104.54,"L55736M",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+989,331,23,"CALIPER",,1,44.43,104.54,104.54,"L55737M",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+990,331,24,"SEAL",,2,17.75,39.44,39.44,"710430",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+991,383,1,"Inspect exhaust","Repair broken exhaust bracket",0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,"Exhaust rattle/leak",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+992,383,2,"Inspect Electrical","Replace head light switch",0,0,0,24.5,,0.35,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"Cruise control inop/dashlight sinop/ radio wiring",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+993,383,3,"General Inspection","Looks good/No problems found",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+994,383,4,"headlight switch",,1,13.95,26.67,26.67,"D1506A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+997,382,0.1,"Remove and replace coolant temp sensor","as listed.",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+998,382,0.2,"Remove and replace plugwires","as listed./ retest.",0,0,0,56,,0.8,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+999,384,1,"Check for lifter noise","Found Internal engine knock. Lifters Loose in bores.Recopmend Engine Replacement.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1000,384,2,"Check dimmer switch - inop","Replace Headlight Switch",0,0,0,52.5,,0.75,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1001,384,3,"Check exhaust","Needs Muffler",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1002,384,4,"Check oil leak","Rear Main Seal. Timing cover Gasket . Oil pan. 
+See Engine Replacement.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1003,384,5,"MANIFOLD GASKET",,1,9.87,21.93,21.93,"MS95000",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1005,384,6,"SPARK PLUG",,8,1.55,3.26,3.26,"R83TS",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,8,,,,,,0,FALSE
+1006,384,7,"DISTRIBUTOR CAP",,1,11.66,22.29,22.29,"F356",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1007,384,8,"IGNITION ROTOR",,1,3.08,5.88,5.88,"F406Z",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1008,384,5.1,"IGNITION POINT SET",,1,7.77,14.85,14.85,"F102PVZ",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1009,384,5.2,"CONDENSER, IGN",,1,3.88,7.41,7.41,"F202Z",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1010,384,5.3,"WATER PUMP",,1,49.87,99.74,99.74,"252-81",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1011,384,5.4,"HOSE",,1,7.69,15.38,15.38,"22000M",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1012,384,5.5,"HOSE",,1,9.73,19.46,19.46,"22114M",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1013,384,5.6,"THERMOSTAT",,1,3.2,6.4,6.4,"132-66",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1014,384,5.7,"MOTOR MOUNT",,1,10.71,21.42,21.42,"270-2289",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1015,384,5.8,"MOTOR MOUNT",,1,10.52,21.04,21.04,"270-2290",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1016,384,5.9,"FUEL PUMP",,1,19.97,39.94,39.94,"40345",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1017,264,7,"OXYGEN SENSOR",,1,29.05,0,79.95,"12-055",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1018,372,4,"BATTERY BOLT",,1,1.75,3.5,3.5,"BATTERY BOLT",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1019,384,9,"HEAD LIGHT SWITCH",,1,22.03,50.27,50.27,"SW1245",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1020,372,5,"BATTER WASHERS",,1,0.5,1,1,"NOCO PADS",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1021,372,6,"ENGINE OIL",,2.5,1.25,1.95,1.95,"10/40",0,0,0,3,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,2.5,,,,,,0,FALSE
+1070,386,3,"STEERING RACK",,1,246.16,346.16,346.16,"9006M",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1078,369,2,"IGNITION CONTROL MODULE",,1,39.95,79.9,79.9,"D1943A",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+1079,369,3,"ELECTRONIC IGNITION MODULE - R&R [B]","1975-95  Pickup",0,0,0,63,,0.9,0.9,0.9,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1080,369,4,,"Has beginnings of coolant leak at front corner of intake manifold.",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1081,370,3,"Check engine light on","Diagnostics  Scope Test/Scan Test found codes - 
+PO154- oxygen sensor B2S1, PO141-B1S2,PO155- O2 - B2S1, PO1406 - EGR  pintle position ,PO 1153, and PO161
+Clear codes and Road Test. Need to recheck if Light comes on again.",0,0,0,17.5,,0.25,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1082,392,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1083,393,1,"Check headlight operation","found defective dimmr switch. Remove and replace switch as listed.",0,0,0,42,,0.6,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,"Headlight switch hard to turn on once on lights went off completely",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1084,394,1,"Inspect fuse problem w/headlights","Inspect -Replace headlight bulbs as listed and adjust.",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1085,394,2,"Brake lights - tested function - found no problems",,0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1086,394,3,"Inspect exhaust/ black smoke-","Diagnostics - scope test- found  gas fouled spark plugs and thermostat stuck open causing vehicle to stay in open loop
+Remova and replace spark plugs - set to spec's and rescope.",0,0,0,87.5,,1.25,1.25,1.25,5,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1087,394,4,"Doorlocks inop / except manually","D/Side door panel needs to be removed for further diagnostics - Right rear door lock actuator also bad .",0,0,0,35,,0.5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1088,394,6,"Inspect washer fluid - reservoir full light comes on - fluid does not come out","needs wiper switch ,  wiper resivoir float assembly and rear wiper motor.",0,0,0,35,,0.5,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1089,307,4,"Check Brakes-","Rears at 75%  Fronts @ 5% 
+Remove and repace Fronts as listed",0,0,0,59.95,,0.86,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1090,395,1,"Check Exhaust","Replace as listed",0,0,0,52.5,,0.75,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1091,395,2,"Inspect growl noise at startup","Found starter noisy/Alternator bearings bad",0,0,0,35,,0.5,0.01,0.01,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1092,396,1,"Check waterpump","see repairs made",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1093,396,2,"RADIATOR HOSE - R&R [D]","1980-00 Pickup  Both",0,0,0,56,,0.8,0.8,0.8,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1094,396,3,"THERMOSTAT - R&R [D]","1985-98 Pickup  V6",0,0,0,56,,0.8,0.8,0.8,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1095,396,4,"WATER PUMP - R&R [B]","1988-98 Pickup  V6, Gas",0,0,0,91,,1.3,1.3,1.3,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1096,396,5,"THERMOSTAT",,1,5.63,11.26,11.26,"131-113",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ACTDE",,,,,,1,,,,,,0,FALSE
+1099,396,8,"BYPASS HOSE",,1,2.01,4.02,4.02,"14155S",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1102,396,11,"WATER PUMP-NEW",,1,68.77,137.54,137.54,"252-711",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"DWPDE",,,,,,1,,,,,,0,FALSE
+1104,397,1,"Check coolant leak-","found defective radiator - replace as listed.",0,0,0,70,,1,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1105,398,1,"Change automatic transmission fluid.","Remove and replace automatic transmission fluid.  Added fresh transmission fluid.  Inspect for leaks.  Road test vehicle.",0,0,0,52.5,,0.75,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,117,0,4,11,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1107,399,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.7,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1108,392,2,"OIL FILTER",,1,4.57,9.62,9.62,"1036",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,2,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1109,392,3,"AIR FILTER",,1,11.17,22.34,22.34,"6117",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,61,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1110,392,4,"ENGINE OIL",,4.5,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4.5,,,,,,0,FALSE
+1111,392,5,,"NEEDS/RECOMMENDS  -  Idler arm 
+                                       Last trans service 
+                                       Muffler burning out- inside",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1112,401,1,"Recheck -Check Engine Light","No Problem Found",0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1118,399,2,"OIL FILTER",,1,5.99,10.99,10.99,"1356",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,20,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1119,399,3,"ENGINE OIL",,3.5,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,3.5,,,,,,0,FALSE
+1120,399,4,,"NEEDS/RECOMMENDS: 
+
+* Last Trans Service (brown ) 
+
+*2 CV Axles 
+ 
+*Hoses (OE)",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1121,404,1,"Replace serpentine belt -","Found defective alternator. Remove and replace alternator, and belts as listed. retest.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1122,395,3,"STARTER-REMAN",,1,56.37,112.74,112.74,"323-367",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"DR AC",,,,,,1,,,,,,0,FALSE
+1123,395,4,"ALTERNATOR-REMAN",,1,87.93,175.86,175.86,"321-339",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"DR AC",,,,,,1,,,,,,0,FALSE
+1124,395,5,"SERPENTINE BELT",,1,16.73,33.46,33.46,"6K947",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1125,395,6,"STARTER ASSEMBLY - R&R [C]","1988-99 Pickup  V8, Gas, Automatic Trans, K2500",0,0,0,49,,0.7,0.7,0.7,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1126,395,7,"CHARGING SYSTEM - CHECK [B]","1974-01  All applicable models  Includes: Check battery, regulator and alternator output.",0,0,0,0,,0,0.6,0.6,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,96,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1127,395,8,"ALTERNATOR ASSEMBLY - R&R [C]","1989-00 Pickup  V8, Gas",0,0,0,42,,0.6,0.6,0.6,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1128,405,1,"Diagnose No Start/Hard Start","Found distributor bushings bad.Remove and replace with parts listed . Scope test and adjust.Road test",0,0,0,162.5,,2.5,1,1,2,0,1,1,,1,1,1,1,1,0,0,0,0,0,0,145,0,1,6,0,0,0,0,-1,0,"Engines Crank OK but either is hard to start or will not start",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1129,406,2,"Replace exhaust","as listed.",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1130,406,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1131,406,3,"OIL FILTER",,1,4.43,9.32,9.32,"1348",0,0,0,5,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,19,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1132,406,4,"EXHAUST GASKET",,1,1.94,3.88,3.88,"256-214",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1133,406,5,"MUFFLER",,1,77.14,154.28,154.28,"288-095",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1134,406,2.1,"ENGINE OIL",,4.5,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4.5,,,,,,0,FALSE
+1135,407,1,"Check Brakes - rev- grown - in forward  rubbing noise","Found front and rear brakes down to less than 2%
+Relpace as listed. Road test",0,0,0,175,,2.5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,28,109,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1136,407,2,"Check eng light on","Scope test - found code PO302 - missfire on #2 cylinder- recommend full tune up.",0,0,0,70,,1,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1137,407,9,"Rotate tires front to back","Included in Brake repair",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1138,404,2,"BELT",,1,6.11,12.22,17.95,"5pk-0880",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1139,404,3,"BELT",,1,5.46,9.95,9.95,"4pk-0900",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1140,396,12,"connector",,1,8.54,10.67,10.67,"88891735",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1141,393,2,"dimmer switch",,1,9.21,17.62,17.62,"D801A",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1142,408,2,"Drivers side seat unable to slide back/adjust",,0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1143,408,6,"Check brakes - squeak-","Remove and replace rear brakes as listed. Road Test.",0,0,0,59.95,,0.86,0,0,5,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1144,408,7,"Steering  wheel tight/ cold  when turning -","See steering gear and power steering repair",0,0,0,0,,0,0,0,6,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1145,408,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1150,396,13,"hose",,1,10.23,17.78,17.78,"8870",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1151,396,14,"hose",,1,18.03,31.33,31.33,"22086",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1152,396,15,"hose",,1,10.09,25.23,25.23,"9820",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1153,396,16,"hose",,1,5.31,13.28,13.28,"9807",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1154,404,4,"ALTERNATOR",,1,140.41,252.75,252.75,"AL 4330 X",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1155,395,9,"clamp",,3,3.23,5.38,5.38,"35794",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+1156,395,10,"front pipe",,1,14.26,23.75,23.75,"43794",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1157,395,11,"muffler",,1,70,116.65,116.65,"22719",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1158,395,12,"tailpipe",,1,22.01,44.02,44.02,"45307",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1159,395,13,"tailpipe",,1,18.44,36.88,36.88,"45308",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1160,395,14,"clamp",,1,1.05,2.34,2.34,"35337",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1161,395,15,"clamp",,3,1.33,2.66,2.66,"35335",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+1163,331,25,"Front Hardware Kits",,2,55.56,69.45,69.45,"F6TZ1K106AA",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1164,394,9,"headlight - supplied by customer",,1,0,0,0,"headlight",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1165,394,10,"WIPER BLADE",,1,4.42,6.95,6.95,"31-16",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,124,0,0,0,1,0,0,149,-1,0,,0,0,"ANC",,,,,,1,,,,,,0,FALSE
+1166,394,11,"WIPER BLADE",,1,5.06,7.95,7.95,"31-18",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,120,0,0,0,1,0,0,151,-1,0,,0,0,"ANC",,,,,,1,,,,,,0,FALSE
+1167,331,4.1,"Transfer case Service","Service as required",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1168,394,8,"Headlight",,1,5.08,10.15,10.15,"H4656",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1169,394,12,,"NEEDS/RECOMMENDS: 
+
+*HOSE (OE and crunchy)
+
+*Washer - reservoir bottle & F- window switch & height sensor for fluid",0,0,0,0,,0,0,0,3,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1170,331,26,"True rotors",,2,14,28,28,"Rotors Trued",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1171,331,27,"BRAKE FLUID",,1,2.25,4.5,4.5,"brake fluid",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1172,331,28,"BRAKE CLEAN",,1,2.98,5.95,5.95,"Brake clean",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1173,331,27.1,"Top End Cleaner",,1,4.18,6.95,6.95,"X66A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,131,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1174,331,27.2,"Fuel Injection Cleaner",,1,14.98,29.95,29.95,"2121 Fuel injection",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1175,396,17,"BELT",,1,20.22,50.55,50.55,"25-060870",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1176,396,18,"ANTI-FREEZE COOLANT",,1,4.25,8.5,8.5,"coolant",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1177,396,19,"Anti-rust",,1,2.97,5.95,5.95,"Max  13 anti-rust",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1178,396,20,"clamp",,2,0.55,1.11,1.11,"#10 clamp",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1179,396,21,"clamp",,6,0.55,1.11,1.11,"#12 clamp",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+1180,396,20.1,"clamp",,2,0.55,1.25,1.25,"#24 clamp",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1181,396,20.2,"clamp",,2,0.55,1.35,1.35,"#28 clamp",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1182,396,20.3,"heater hose",,3,0.5,1,1,"Heater hose",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,3,,,,,,0,FALSE
+1183,396,20.4,"Rad cap",,1,4.81,9.63,9.63,"Sp29",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1184,413,1,"Inspect for water in oil","Found breather/pcv system plugged. Replace-flush and reassemble.",0,0,0,140,,2,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,"Water in oil",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1185,414,1,"Recheck dieing problem",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1187,405,2,"dist housing",,1,41.2,78.78,78.78,"10496786",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1188,405,3,"PICK UP COIL",,1,9.61,18.37,18.37,"D1987A",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1189,405,4,"Sta pole p",,1,4.3,8.22,8.22,"10495802",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1190,405,5,"dist shaft",,1,36.02,68.88,68.88,"10467353",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1191,405,6,"DISTRIBUTOR CAP",,1,14.86,28.47,28.47,"D303A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,129,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+1192,405,7,"pole piece",,1,5.21,8,8,"10474000",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1193,416,1,"Runs Rich/Black sooty exhaust
+Service Engine Soon LIGHT ON","DIAGNOSTICS/ SCOPE TEST SCAN TEST FOUND DEFECTIVE OXYGEN SENSOR. ALSO FOUND T-STAT STUCK OPEN - UNABLE TO REACH PROPER ENG TEMP.Replace parts as listed.Retest",0,0,0,105,,1.5,0,1,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1194,396,22,"Heater Hose Fitting","Replace heater hose quick connector",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1195,418,1,"Dashboard lights coming on while driving."" Charge & Brake""
+Inspect and test charging system",,0,0,0,17.5,,0.25,0,0.25,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1196,418,2,"Burning odor coming from rear wheel area (drivers side)
+Inspect and advise","No problem found/ need further diagnosis",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1197,419,1,"Speedometer quit working. Inspect and advise.","Replace #18 fuse",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1198,420,1,"Hesitates from a stop. Acts like trans slow to engage.","Reset pressures and road test.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1199,420,2,"Heater works part of the time -","Replace blower motor switch.",0,0,0,87.5,,1.25,1.25,1.25,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1200,420,3,"Temp gauge not working at all.","Diagnostics  - Remove and replace temp sensor as listed.",0,0,0,42,,0.6,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1201,420,4,"Front brakes skid.","Tighten lower control arms to frame.Adjust brakes.Road test",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1202,420,5,"Differential leak -","slight leak. Not enough to justify repair at this time. (monitor)",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1203,420,6,"Inspect for oil leaks. Advise.","Replace front crank seal (damper) as listed.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1204,420,7,"Coolant leak.Has to add  to resevoir. Right lower part of rad area ?","Recommend hoses, waterpump and radiator.",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1205,421,1,"Diagnose Cause of Light","Found EGR position code - Diagnostics found defective EVP sensor  - remove and replace as listed. Retest.",0,0,0,70,,1,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1206,422,1,"Change automatic transmission filter and gasket","Remove and replace automatic transmission filter and gasket.  Added fresh transmission fluid.  Inspect for leaks.  Road test vehicle.",0,0,0,52.5,,0.75,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,117,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1207,423,1,"Diagnose Cause of Light","Found code 21 . TPS high. Troubleshoot system . Needs sensor.",0,0,0,70,,1,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1208,424,1,"Diagnose Cause of Light- see below",,0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,0,0,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1209,424,2,"Missfires / Runs rough / then check engine light came on","Scope test/scan test Found PO306 Miss#6 cylinder, PO 325 knock sensor bank #1. knock sensor - labs bad 2.5 volts fixed 2.5. #6 cylinder injector labs ok - fuel pressure good .",0,0,0,98,,1.4,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1210,425,1,"Diagnose engine noise and its cause","Found serpentine belt tensioner defective . Replace",0,0,0,70,,1,1,1,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,112,0,4,4,0,0,0,0,-1,0,"Engine is making unusual noises",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1211,426,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,24.5,,0.35,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,4,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1212,426,2,"Inspect shocks/advise-","MARGINAL",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1213,426,3,"Turn signal / Flasher ?",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1214,427,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1215,427,2,"Inspect brakes","Found Defective master cylinder.Front and rear brakes 60%
+Remove and replace as listed. Road test",0,0,0,87.5,,1.25,0.5,0.5,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,109,0,4,5,0,0,0,0,-1,0,"Brake Pedal is soft or sinks to the floor",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1216,422,2,"AUTO. TRANS. FLUID",,7,1.25,1.95,1.95,"ATF",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,112,-1,0,,0,0,"ATF",,,,,,7,,,,,,0,FALSE
+1217,422,3,"TRANSMISSION FILTER",,1,20.85,0,36.79,"B72",0,0,0,2,0,0,0,"B & L",1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,87,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1218,429,1,"Diagnose engine overheating - possible t-stat","Found waterpump leaking. Replace pump/hoses/ thermostat as listed. Refill and pressure test.",0,0,0,210,,3,0.75,0.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,115,0,4,3,0,0,0,0,-1,0,"Engine is overheating (steam, losing coolant, pressure relief at radiator cap or recovery system)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1220,405,9,"pu coil sh",,1,3.09,5.88,5.88,"10496783",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1221,307,5,"SEAL",,2,1.5,3.33,3.33,"4739",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1222,307,6,"BRAKE PADS",,1,22.66,53.32,53.32,"MKD52S",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,109,0,0,0,1,0,0,134,-1,0,,0,0,"BN2BD",,,,,,1,,,,,,0,FALSE
+1223,307,7,"BRAKE ROTOR",,2,94.96,189.92,189.92,"141863",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1226,384,10,"BOLT",,16,1.04,1.3,1.3,"FMC374047S",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,16,,,,,,0,FALSE
+1227,384,9.1,"GASKET",,2,1.56,3.47,3.47,"9998",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1228,431,1,"VLV CVR ST",,1,8.92,19.82,19.82,"VS50044C",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1230,307,9,"BRAKE CLEAN",,1,2.98,5.95,5.95,"Brake Clean",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1232,418,3,"Alternator","Remove and replace alternator",0,0,0,70,,1,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1233,418,4,"alternator",,1,121.5,243,243,"210-0114",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1234,384,11,"Flywheel",,1,28.68,57.36,57.36,"F208",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1235,432,1,"New engine recheck","as per check list",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1236,432,2,"Estimate on exhaust","see est.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1237,423,2,"EFI THROTTLE SENSOR",,1,45.83,79.02,79.02,"25532800",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1238,423,3,"THROTTLE POSITION SENSOR - R&R [B]","1989-91  LeSabre  Includes: Adjust where applicable.",0,0,0,42,,0.6,0.6,0.6,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1239,384,12,"switch- oil pressure switch",,1,15.28,34.87,34.87,"SW1547B",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1240,384,13,"primary Dist Lead",,1,24.26,30.33,30.33,"DW34",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1241,433,1,"Diagnose why the engine will not crank","Replace starter solenoid . Retest system",0,0,0,52.5,,0.75,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,1,6,0,0,0,0,-1,0,"Engine will not crank (trun over)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1242,429,2,"WATER PUMP-NEW",,1,60.56,122.33,122.33,"251-594",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+1243,429,3,"MOLDED COOLANT/HTR HOSE",,1,8.8,17.6,17.6,"9816",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1244,429,4,"LOWER RADIATOR HOSE",,1,9.19,18.38,18.38,"26157X",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1245,429,5,"UPPER RADIATOR HOSE",,1,9.1,18.2,18.38,"26060X",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,104,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1248,433,2,"STARTER SOLENOID-NEW",,1,14.53,29.06,29.06,"SW-1951-C",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"MOTMO",,,,,,1,,,,,,0,FALSE
+1251,435,1,"Lacks heater temp","Replace heater core as listed",0,0,0,105,,1.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1257,405,0,,,0,20,0,43.32,,0,0,0,0,0,7,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,,,,,,0,,,,,,0,FALSE
+1258,432,3,,"22502 muffler $102.01
+45644 tailpipe $22.90
+15634 catalytic convertor $191.94
+35336  x 3  clamps @ $2.21ea
+31519 gasket $ 2.75",0,0,0,0,,0,0,0,2,0,5,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1259,432,4,"OIL FILTER",,1,5.58,10.64,10.64,"1626",0,0,0,1,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,8,37,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1260,432,5,"ENGINE OIL",,6,1.25,1.95,1.95,"10/40",0,0,0,1,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,6,,,,,,0,FALSE
+1261,427,3,"Master Cylinder",,1,134.5,269,269,"174-638",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,109,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1262,427,4,"BRAKE FLUID",,1,0.99,4.5,4.5,"brake fluid",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1263,427,5,"OIL FILTER",,1,4.57,9.62,9.62,"1036",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,2,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1264,427,6,"ENGINE OIL",,5,1.25,1.95,1.95,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,5,,,,,,0,FALSE
+1265,427,0,,,0,15,0,44.61,,0,0,0,0,0,7,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,,,,,,0,,,,,,0,FALSE
+1266,427,7,"BRAKE PARTS CLEANER",,1,2.25,4.5,4.5,"Brake clean",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1267,429,0.1,"ANTI-FREEZE COOLANT",,2,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,2,,,,,,0,FALSE
+1268,425,0.1,"TENSIONER",,1,94.32,122.81,122.81,"F23Z*6B209*B",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1269,423,4,,"Recomendations
+Tune up
+Trans service
+Plug wires
+Serpentine belt
+Fuel Injection Service",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1270,438,1,"Coolant leak , Rear of engine block",,0,0,0,0,,0,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1271,429,6,"Antirust",,1,1.5,4.95,4.95,"Max 13",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1272,429,7,"clamps",,4,0.75,1.5,1.5,"12",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1273,429,8,"clamps",,2,0.85,1.7,1.7,"20",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1274,429,9,"clamps",,2,0.95,1.9,1.9,"24",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1275,429,10,"Thermostat",,1,4.95,9.9,9.9,"530090",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1276,429,11,"Thermostat gasket",,1,0.5,1,1,"3018",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1277,442,1,"carrier",,1,98,148,148,"DAN707062X",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1278,442,2,"spider kit",,1,70,105,105,"DAN706058X",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1279,442,3,"Bearing kit",,1,167,207,207,"YK D80-A",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1280,442,4,"axle",,1,83,133,133,"YA D36113-1",0,0,0,5,0,0,0,,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1281,443,1,"Inspect Charging system","found defective battery. Remove and replace battery as listed.",0,0,0,35,,0.5,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1282,444,1,"INSPECT MUFFLER :","REPLACE PARTS AS LISTED.",0,0,0,35,,0.5,0.5,0.5,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1283,445,1,"Diagnose Cause of Light","Found Knock Sensor and Coolant Temp Sensor codes. Run individual system diagnostics.Recommend Temp sensor and Knock sensor.",0,0,0,105,,1.5,1,1,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,145,0,4,6,0,0,0,0,-1,0,"Check Engine Light or Service Engine Soon Light Comes On",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1284,407,10,"AIR FILTER",,1,16.33,26.33,26.33,"6395",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1285,447,1,"Diagnose engine overheating","found blown headgasket.",0,0,0,52.5,,0.75,0.75,0.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,115,0,0,0,0,0,0,0,-1,0,"Engine is overheating (steam, losing coolant, pressure relief at radiator cap or recovery system)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1286,447,2,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,0,0,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1287,424,3,"FUEL INJECTOR",,1,67.92,113.1,113.1,"62  027",0,0,0,2,0,0,0,"WP",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1288,407,11,"BRAKE PADS",,1,39.36,57.15,57.15,"43022-SV4-G224",0,0,0,3,0,0,0,"WP",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1289,407,12,"BRAKE PADS",,1,31.4,44.95,44.95,"45022-SM5-525",0,0,0,3,0,0,0,"WP",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1290,407,8,"True Rotor",,4,7,14,14,"TR",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,109,0,0,0,1,0,8,162,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1291,407,3,"OIL FILTER",,1,5.16,10.86,10.86,"1334",0,0,0,3,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,17,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1293,407,5,"AUTO. TRANS. FLUID",,4,2.88,4.28,4.28,"ATFZ1",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,164,-1,0,,0,0,"HON",,,,,,4,,,,,,0,FALSE
+1294,407,6,"BRAKE CLEAN",,1,1.85,4.95,4.95,"BC",0,0,0,3,0,0,0,"JEM",1,1,1,1,1,0,0,0,0,0,1,109,0,0,0,1,0,0,165,-1,0,,0,0,"JEM",,,,,,1,,,,,,0,FALSE
+1295,407,7,"Transmission Service","Service as required",0,0,0,24.5,,0.35,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,28,117,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1296,407,2,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1298,438,2,"INTAKE MANIFOLD - R&R [B]","Add Time: Where Cruise Control  interferes add",0,0,0,14,,0.2,0.2,0.2,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1299,438,3,"INTAKE MANIFOLD - R&R [B]","1996-00 Pickup V8, 5.7L Eng, Lower  w/Air Cond",0,0,0,301,,4.3,4.3,4.3,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1300,438,4,"RADIATOR CAP-REGULAR",,1,4.61,9.22,9.22,"15982188",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"ACTAC",,,,,,1,,,,,,0,FALSE
+1301,438,5,"THERMOSTAT",,1,5.63,11.26,11.26,"131-113",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"ACTDE",,,,,,1,,,,,,0,FALSE
+1302,438,6,"INTAKE MANIFOLD GSKT SET",,1,30.05,60.1,60.1,"MS90131",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"FELFEL",,,,,,1,,,,,,0,FALSE
+1303,438,7,"ANTI-FREEZE COOLANT",,2.5,10.66,16.95,16.95,"Dex",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,114,-1,0,,0,0,"DELDE",,,,,,2.5,,,,,,0,FALSE
+1304,449,1,"Failed Emissions - recheck previous work","Reset CO levels",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1305,438,8,"heater fitting",,1,7.5,12.5,12.5,"gm",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1306,450,1,"Recheck - REPLACE PART AS LISTED.",,0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1307,451,1,"Run Rich Black smoke out exhaust, Runs rough at an idle-","Remove and replace carb for overhaul as listed. Set to spec's and road test,",0,0,0,175,,2.5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1308,452,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1309,452,2,"Replace bulbs","as listed.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1310,453,1,"Check Power Windows-","Diagnostics found defective switch - replace as listed.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1311,453,2,"Heater Panel light-","replace bulbs listed.",0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,11,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1312,454,1,"Diagnose engine overheating -","Found thermostat stuck closed causing overheat. Replace thermostat , refill and retest .Found Hydro carbons in radiator - blown headgasket. recommend headgasket repair.",0,0,0,70,,1,0.75,0.75,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,115,0,4,4,0,0,0,0,-1,0,"Engine is overheating (steam, losing coolant, pressure relief at radiator cap or recovery system)",0,2,,"<None>","<None>","<None>",,,0,,,,,,0,FALSE
+1313,455,1,"Trip Check: Vehicle needs full tune up,all hoses with t-stat and flush, belts .",,0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1314,455,2,"Check Coolant Flush-","Remove and replace hoses, thermostat and flush system.",0,0,0,227.5,,3.25,3.25,3.25,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1315,455,3,"Check Spark Plugs: Needs Tune Up.","Replace tune up pieces listed. Retest.",0,0,0,87.5,,1.25,1.25,1.25,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1316,455,4,"Check cigarette  lighter -","Found ground wire loose- repair as needed.",0,0,0,35,,0.5,0.5,0.5,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1317,445,2,"ENGINE TEMP SENSOR",,1,8.24,16.48,16.48,"213-310",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ACEDE",,,,,,1,,,,,,0,FALSE
+1318,445,5,"KNOCK/DETONATION SENSOR",,1,34.7,69.4,69.4,"213-264",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"ACEDE",,,,,,1,,,,,,0,FALSE
+1319,384,14,"ANTI-FREEZE COOLANT",,3,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,3,,,,,,0,FALSE
+1320,384,15,"Anti rust",,1,2.98,5.95,5.95,"Max 13 Antirust",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1321,384,16,"clamps",,2,0.55,1.11,1.11,"#30",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1322,384,17,"Clamps",,6,0.55,1.11,1.11,"#10",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+1323,384,18,"Clamps",,2,0.55,1.11,1.11,"#28",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1324,384,19,"Clamps",,4,0.55,1.11,1.11,"#01",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1325,384,20,"Hose",,7,0.5,1,1,"Heater Hose 5/8",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,7,,,,,,0,FALSE
+1326,384,19.1,"Hose",,4,0.5,1,1,"Heater Hose 5/16",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1327,445,3,"COOLANT TEMPERATURE SENSOR - R&R [B]","1987-96 Corsica  V6",0,0,0,56,,0.8,0.8,0.8,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1328,445,4,"KNOCK SENSOR - R&R [B]","1987-94 Corsica  V6",0,0,0,49,,0.7,0.7,0.7,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1329,384,19.2,"Hydro Hose",,4,2.5,5,5,"Hydraulic Hose 3/8",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1330,384,19.3,"OIL FILTER",,1,4.28,9.02,9.02,"1515",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,33,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1331,384,19.4,"ENGINE OIL",,6,0.98,1.95,1.95,"30WT",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+1332,384,19.5,"Eng Paint- supplied by customer",,1,0,0,0,"Paint",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1333,384,9.01,"BRAKE CLEAN",,1,2.98,5.95,5.95,"Brake clean",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1334,384,9.02,"Convertor Nuts",,4,0.75,1.5,1.5,"convertor nuts",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1335,384,9.03,"studs",,2,0.69,1.38,1.38,"ST-54",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1336,384,9.04,"Brass Manifold",,2,0.46,0.63,0.63,"STN104X",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1337,384,9.05,"HH cap Screw",,1,0.2,0.27,0.27,"401-798B",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1338,384,9.06,"Cylinder Head Core",,1,50,50,50,"Cylinder Head Core",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1339,384,9.07,"Engine 390",,1,1245,2490,1645,"K4341 Engine",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1340,452,3,"rear tail light bulbs",,2,2.21,4.42,4.42,"7443",0,0,0,3,0,0,0,"WP",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1341,452,4,"OIL FILTER",,1,5.99,10.99,10.99,"1356",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,20,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1343,456,1,"Lube, oil, and filter ( oil & filter supplied by customer)","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,22,,0.31,0.21,0.21,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1344,384,3.1,"Replace Engine Assembly","Remove and Replace Engine Assembly As Listed.Scope Test and set to tune up specs.",0,0,0,1050,,15,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1345,458,1,"Wipers inop -","Diagnostics  - Found defective wiper motor. Replace as listed.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1346,458,2,"Check oil leak-","Reseal valve cover gaskets as listed.",0,0,0,210,,3,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,4,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1347,458,3,"Runs rough - cold dies  [possible tune up)-","Reset choke/readjust carb/ set to spec's /Scope test",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1349,459,1,"Check eng light on /oil light on - oil low","SEE BELOW",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1351,420,8,"TIMMING COVER SET",,1,8.34,18.53,18.53,"TCS45121",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1352,438,9,"VALVE COVER GASKETS",,1,14.27,31.71,31.71,"VS50088R",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1353,420,9,"COOLANT HOSE",,1,11.97,29.93,29.93,"10908",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1354,431,2,"RETAINER",,1,1.54,1.92,1.92,"D1AZ9E628B",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1355,431,3,"FILTER, EMISSIONS",,1,1.27,2.68,2.68,"6967",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1356,420,10,"WATER PUMP",,1,60.56,122.33,122.33,"251-594",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1357,420,11,"COOLANT TEMP SENSOR",,1,10.1,20.2,20.2,"25037332",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1358,420,12,"THERMOSTAT",,1,4.33,8.66,8.66,"131-87",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1359,420,13,"HOSE",,1,10.2,20.4,20.4,"26061X",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1360,420,14,"HOSE",,1,10.19,20.38,20.38,"24203L",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1361,420,15,"FAN SWITCH",,1,9.06,18.12,18.12,"15-71352",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1362,420,16,"CONNECTOR",,1,33.01,66.02,66.02,"PT703",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1363,460,1,"headlight",,1,6.95,13.9,13.9,"H4651",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1365,420,17,"ANTI-FREEZE COOLANT",,2.5,4.25,8.5,8.5,"COOL",0,0,0,2,0,0,0,"AES",1,1,1,1,1,0,0,0,0,0,1,144,0,0,0,1,0,0,116,-1,0,,0,0,"AES",,,,,,2.5,,,,,,0,FALSE
+1366,413,2,"Hose",,1,10.64,13.3,13.3,"22542646",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1367,413,3,"Separator",,1,20.85,26.06,26.06,"24572344",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1368,413,4,"Hose",,1,9.01,11.26,11.26,"24572340",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1369,413,5,"Htr asm",,1,108,135,135,"24576537",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1370,463,1,"Tune Up-","Replace all tune up parts as listed.",0,0,0,59.95,,0.86,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1371,463,2,"C.V. Front Seal -","remove and replace axle seals and retainer orings.",0,0,0,210,,3,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1372,463,3,"Dash drivers side -","Resecure  dash.",0,0,0,17.5,,0.25,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1373,463,4,"Hard start cold -","no problem found",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1374,463,5,"Hood rod grommet -","parts on order",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1375,463,6,"Brake Noise - squeal","Clean and adjust as listed. Road Test.",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1376,463,7,"Oil leak & hose missing ( heat tube to air cleaner )","Replace as listed.",0,0,0,0,,0,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1377,438,10,"OIL FILTER",,1,4.57,9.62,9.62,"1036",0,0,0,1,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,2,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1378,438,11,"ENGINE OIL",,1,1.25,2.05,2.05,"10/40",0,0,0,1,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,1,,,,,,0,FALSE
+1379,438,12,"AUTO. TRANS. FLUID",,1,1.25,1.95,1.95,"ATF",0,0,0,1,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,112,-1,0,,0,0,"ATF",,,,,,1,,,,,,0,FALSE
+1380,438,13,"BELT",,1,20.81,41.62,41.62,"6K870",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1381,438,14,"BRAKE CLEAN",,1,2.98,5.95,5.95,"Brake Clean",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1382,438,15,"Silicone",,1,5,10,10,"Silicone",0,0,0,1,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1383,443,0.1,"BATTERY",,1,46.95,78.95,78.95,"MT58",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1384,413,0.1,"OIL FILTER",,1,4.57,9.62,9.62,"1040",0,0,0,2,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,3,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1385,413,0.2,"ENGINE OIL",,1,1.25,2.05,2.05,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,1,,,,,,0,FALSE
+1386,413,0.3,,"RECOMMEND MORE FREQUENT OIL CHANGES.",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1387,407,13,"DISTRIBUTOR CAP",,1,13.2,19.13,19.13,"30102-POG-A02",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1388,407,14,"DISTRIBUTOR ROTOR",,1,3.29,15.89,15.89,"30103-POG-A02",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1389,407,15,"SPARK PLUG",,6,1.67,2.74,2.74,"2262",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,6,,,,,,0,FALSE
+1390,407,16,"FUEL FILTER",,1,11,18.65,18.65,"16010-ST5-933",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1391,407,17,"Top End Cleaner",,1,4.18,6.95,6.95,"X66A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,131,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1392,407,18,"SEAFOAM FUEL ADDITIVE",,1,2.98,5.95,5.95,"SEAFOAM",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1393,407,2,"Tune Up","Replace tune up pieces as listed.",0,0,0,59.95,,0.86,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1394,407,2,"Replace fuel filter","as listed.",0,0,0,35,,0.5,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1395,407,2,"Clean throttle body and IAC","as listed.",0,0,0,17.5,,0.25,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1396,407,19,,"Recommend: coolant flush",0,0,0,0,,0,0,0,1,0,5,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1397,452,5,"ENGINE OIL",,4.5,1.25,2.05,2.05,"10/40",0,0,0,1,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4.5,,,,,,0,FALSE
+1402,463,9,"DISTRIBUTOR CAP",,1,3.47,7.95,7.95,"39100-4302",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1403,463,10,"IGNITION ROTOR",,1,1.32,2.72,2.72,"19102-33012",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1404,463,11,"SPARK PLUG",,4,1.3,2.08,2.08,"7133",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1405,463,12,"AIR FILTER",,1,6.45,9.25,9.25,"SOA5165103",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1406,463,13,"POLLUTION CONT.VALVE",,1,1.93,4.58,4.58,"11810-A3501",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1407,463,14,"FUEL FILTER",,1,1.95,2.95,2.95,"SOA5165106",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1408,463,15,"DIFF. SIDE COVER SEAL",,1,2.01,9.07,9.07,"80672 7070",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1409,463,16,"DIFF. SIDE COVER SEAL",,1,2.12,9.07,9.07,"80672 7080",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1410,465,1,"STRUT ASSEMBLY - R&I [B]","1980-89 GL-10  One Side  DOES NOT include alignment. DOES NOT include Diagnosis or Testing of Air Suspension.",0,0,0,70,,1,1,1,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1411,465,2,"STEERING KNUCKLE - R&R [B]","1980-89 GL-10  Each  Includes: Replace bearings and Seals.",0,0,0,140,,2,2,2,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1412,407,20,"POLLUTION CONT.VALVE",,1,14.1,17.62,17.62,"17130-PK1-003",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1413,465,3,"FRONT END ALIGNMENT",,0,0,0,39.95,,0.57,0,0,1,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1414,465,4,"BALL JOINT",,1,11.01,29.98,29.98,"72106-7003",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1415,465,5,"WHEEL BEARING",,2,9.11,21.07,21.07,"90601-0015",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1416,465,6,"SEAL",,2,3.65,6.35,6.35,"90625-0018",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1417,465,7,"CLEANER",,1,2.98,5.95,5.95,"CLEANER",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1418,466,1,"Inspect CV Shafts","REPLACE  BOTH CV  SHAFTS A LISTED. ROAD TEST.",0,0,0,140,,2,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1419,407,21,"ENGINE OIL",,4.5,1.25,2.05,2.05,"10/40",0,0,0,2,0,0,0,"PENZ",1,1,1,1,1,0,0,0,0,0,1,149,0,0,0,1,0,0,113,-1,0,,0,0,"OIL",,,,,,4.5,,,,,,0,FALSE
+1420,259,43,"EXPANSION TUBE",,1,4.28,8.56,8.56,"15-5151",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1421,259,44,"ACCUMULATOR/DRIER ASSY",,1,45.28,90.56,90.56,"15-1645",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1422,259,45,"HR-6 COMPR & CLUTCH-NEW",,1,224.45,448.9,448.9,"15-2968",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,104,0,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1423,259,46,"A/C SYSTEM - CHARGE (COMPLETE) [B]","1974-01  All applicable models  ""NOTE 1: Times shown DO NOT include recover, evacuate and charge system. If necessary to open refrigerant system; refer to System Charge (Complete) for appropriate time."" ""NOTE 2: Times listed are for Factory and Dealer dash installed Integral Type air conditioning units only. Use necessary clock time for service of hang on units."" Includes: Recover, evacuate and recharge system.",0,0,0,98,,1.4,1.4,1.4,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1424,259,47,"A/C REFRIGERANT - RECOVER [B]","1974-01  All applicable models  ""NOTE 1: Times shown DO NOT include recover, evacuate and charge system. If necessary to open refrigerant system; refer to System Charge (Complete) for appropriate time."" ""NOTE 2: Times listed are for Factory and Dealer dash installed Integral Type air conditioning units only. Use necessary clock time for service of hang on units."" NOTE: This operation is not to be used with any other operations.",0,0,0,21,,0.3,0.3,0.3,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,32,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1425,259,44.1,"R12 to R134a conversion kit",,1,20,65,65,"RetroFit Kit",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,115,0,0,0,1,0,8,154,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1426,259,44.2,"FREON",,4,5.5,15,15,"R134A",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,115,0,0,0,1,0,0,153,-1,0,,0,0,"AC DE",,,,,,4,,,,,,0,FALSE
+1441,370,7,"INTAKE MANIFOLD GSKT SET",,1,30.05,60.1,60.1,"MS90131",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"FELFEL",,,,,,1,,,,,,0,FALSE
+1443,472,2,"Winter Check","Inspect - coolant - good to -50' 
+
+Needs battery.",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1444,472,3,"Backfires - cold","Scope test and inspect - found fuel injectors slow to respond 
+added fueladditive to fuel system to clean.",0,0,0,70,,1,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1445,472,4,"Whistling sound while driving","test drive and inspect - no problem found",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1446,472,5,"Check tires","Vehicle has new tires and brakes - adjust brakes and road test .",0,0,0,17.5,,0.25,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1447,472,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.5,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1448,473,1,"Tune Up",,0,0,0,60.2,,0.86,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1449,474,1,"Inspect oil pump/pick up screen/inspect for crank/bottom end damage","Remove and replace oil pan to inspect - found screen plugged. Remove and replace pump & screen as listed. Retest oil pressure.",0,0,0,350,,5,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1452,476,1,"Lube, oil, and filter","Lubricate and check chassis.  Change oil and oil filter.  Check air filter and breather filter.  Check all fluid levels and tire pressures.  Preform basic safety inspection.  Road test vehicle.",0,0,0,14.95,,0.21,0.21,0.21,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,120,0,4,5,0,0,0,0,-1,0,,,0,,,,,,,0,,,,,,0,FALSE
+1453,476,2,"Tune Up","Replace tune up pieces as listed.",0,0,0,59.95,,0.86,0.86,0.86,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1454,476,3,"Check Brakes- Inspect brakes - fronts at 1% rears at 30%.","Remove and replace front brakes with calipers. Road Test",0,0,0,140,,2,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,5,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1455,476,4,"Check over as per check list.","*TIMING BELT DUE AT 90,000.
+*Hoses and coolant flush",0,0,0,17.5,,0.25,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1462,478,1,"Check miss/stutter on accell","Needs Tune up.Wires. Throttle body service.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1463,478,3,"Check oil leak at intake manifold - oil consumption","Slight internal oil consumption. Slight leak at manifold",0,0,0,0,,0,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1473,455,8,"LOWER RADIATOR HOSE",,1,10.77,21.54,21.54,"20236S",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1474,455,9,"BELT",,1,13.44,26.88,26.88,"6K505",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1475,455,10,"BELT",,1,15.76,31.52,31.52,"6K675",0,0,0,3,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"ABH35",,,,,,1,,,,,,0,FALSE
+1476,455,11,"SUPPRESSOR PLUG",,8,1.33,2.66,2.66,"ASF42C",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,40,0,-1,0,,0,0,"MOTMOT",,,,,,8,,,,,,0,FALSE
+1477,455,12,"DISTRIBUTOR ROTOR",,1,3.07,6.14,6.14,"F426",0,0,0,2,0,0,0,"ACD-",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,171,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+1478,455,13,"DISTRIBUTOR CAP",,1,13.84,27.68,27.68,"F313Z",0,0,0,2,0,0,0,"ACD-",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,170,-1,0,,0,0,"DR DE",,,,,,1,,,,,,0,FALSE
+1479,455,14,"PCV VALVE",,1,2.07,4.14,4.14,"CV1014C",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+1480,455,15,"FUEL FILTER",,1,7.61,15.22,15.22,"GF510",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+1481,455,16,"BREATHER FILTER",,1,2.86,5.72,5.72,"FB106",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,32,0,-1,0,,0,0,"AC DE",,,,,,1,,,,,,0,FALSE
+1482,479,1,"Runs Rough/Fuel Smell","Diagnostics - scope test/scan test found #2 cylinder missfire. Also found coil burnt through and wires w/high resistance. Recommend full tune w/ wires,coil, and fuel injection service.",0,0,0,70,,1,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1483,420,18,"RADIATOR",,1,276,370,370,"321",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1484,420,19,"heater knob",,1,4.9,7.54,7.54,"16153467",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1485,424,4,"Sensor assy -kno",,1,147.02,183.77,183.77,"22060-30P00",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1486,424,5,"gasket-throttle",,1,2.42,3.02,3.02,"16175-31U00",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1488,480,1,"Check Brakes-","Found front brakes metal to metel .Needs rotors, calipers and hoses.",0,0,0,0,,0,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1489,480,2,"Tune Up-","Replace tune up pieces as listed.",0,0,0,59.95,,0.86,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1490,480,3,"Check front Blinker - short-","Diagnostics - found defective taillight socket and wiring.Repair and add external ground.",0,0,0,70,,1,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1491,424,7,"gasket mnanifold",,2,24.11,30.14,30.14,"14035-38U01",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,2,,,,,,0,FALSE
+1492,453,3,"Switch",,1,24.38,30.47,30.47,"04685278",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1493,479,2,"Tune up -","Replace tune up pieces as listed.",0,0,0,59.95,,0.86,0,0,4,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1494,479,1.1,"Remove and replace fuel filter","as listed.",0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1495,479,1.2,"Remove and replace plugwires","as listed.",0,0,0,42,,0.6,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1496,479,1.3,"Remove and replace coil","as listed.",0,0,0,21,,0.3,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,3,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1497,479,1.4,"Fuel injection service -","as listed.",0,0,0,99.95,,1.43,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1498,479,0.1,"SPARK PLUG",,8,1.73,3.46,3.45,"ASF32C",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,8,,,,,,0,FALSE
+1499,479,0.2,"SPARK PLUG WIRE",,1,41.43,108.64,108.64,"WR4038A",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1500,479,0.3,"POLLUTION CONT.VALVE",,1,3.38,8.2,8.2,"EV68C",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1503,479,0.6,"AIR FILTER",,1,8.31,15.94,15.94,"6174",0,0,0,3,0,0,0,"NAPA",1,1,1,1,1,0,0,0,0,0,1,147,0,0,0,1,0,0,69,-1,0,,0,0,"NAPFLT",,,,,,1,,,,,,0,FALSE
+1504,479,0.7,"FUEL FILTER",,1,10,20.07,20.07,"3097",0,0,0,3,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1505,479,0.8,"IGNITION COIL",,1,41.12,93.98,93.98,"DG470",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1507,479,1,"FUEL ADDITIVE",,1,3.48,6.95,6.95,"SEAFOAM",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1508,479,1,"Top End Cleaner",,1,4.18,6.95,6.95,"X66A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,131,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1509,466,2,"CV AXLE",,1,54.95,109.95,109.95,"2591",0,0,0,4,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1510,431,4,"4wire harness",,1,6.94,13.88,13.88,"755-1548",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1511,476,5,"FUEL FILTER",,1,11,18.65,18.65,"16010-ST5-933",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1513,476,7,"AIR FILTER",,1,7.98,13.18,13.18,"17220-P0A-A00",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1514,476,8,"POLLUTION CONT.VALVE",,1,2.47,13.39,13.39,"17130-POA-003",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1515,476,9,"DISTRIBUTOR CAP",,1,6.29,18.25,18.25,"30102-PT3-A12",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1516,476,10,"DISTRIBUTOR ROTOR",,1,5.04,15.89,15.89,"30103-PO8-003",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1517,476,11,"DISTRIBUTOR ORING",,1,0.51,1.53,1.53,"30110-PA1-732",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1518,476,12,"WIRE SET",,1,27.92,54.95,54.95,"9537",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1519,476,13,"SPARK PLUG",,4,1.67,2.74,2.74,"2262",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,4,,,,,,0,FALSE
+1520,473,2,"SPARK PLUG WIRE",,1,0,58.46,58.46,"618V",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1521,473,3,"SPARK PLUG",,8,1.55,3,3,"CR43TS",0,0,0,4,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,122,-1,0,,0,0,"ACD",,,,,,8,,,,,,0,FALSE
+1522,473,4,"DISTRIBUTOR CAP",,1,14.86,28.47,28.47,"D303A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,8,129,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+1523,473,5,"IGNITION ROTOR",,1,3.08,5.88,5.88,"D447",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,109,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+1524,473,6,"POLLUTION CONT.VALVE",,1,2.08,4.16,4.16,"CV774C",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,104,-1,0,,0,0,"ACEDE",,,,,,1,,,,,,0,FALSE
+1525,473,7,"IGNITION COIL",,1,32.21,61.71,61.71,"D535",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,105,-1,0,,0,0,"ADADE",,,,,,1,,,,,,0,FALSE
+1526,473,8,"OXYGEN SENSOR",,1,27.41,54.82,54.82,"ASF21",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,172,-1,0,,0,0,"ACD",,,,,,1,,,,,,0,FALSE
+1527,473,9,"FUEL ADDITIVE",,1,0,6.95,6.95,"SEAFOAM",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1528,473,10,"Top End Cleaner",,1,4.18,6.95,6.95,"X66A",0,0,0,2,0,0,0,"ACD-5002",1,1,1,1,1,0,0,0,0,0,1,145,0,0,0,1,0,0,131,-1,0,,0,0,"DELDE",,,,,,1,,,,,,0,FALSE
+1529,473,11,"FUEL FILTER",,1,0,27.6,27.6,"3481",0,0,0,2,0,0,0,,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,8,0,-1,0,,0,0,,,,,,,1,,,,,,0,FALSE
+1530,473,0.1,"REPLACE FUEL FILTER",,0,0,0,17.5,,0.25,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1531,473,0.2,"REPLACE COIL",,0,0,0,24.5,,0.35,0,0,3,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE
+1532,473,0.3,"REPLACE  OXYGEN SENSOR",,0,0,0,35,,0.5,0,0,2,0,1,0,,1,1,1,1,1,0,0,0,0,0,0,0,0,4,6,0,0,0,0,-1,0,,0,0,,,,,,,0,,,,,,0,FALSE

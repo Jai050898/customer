@@ -1,0 +1,57 @@
+      .estyle1 {
+        background-color:#ffffff;
+        border:3px black solid;
+      }
+      .estyle7 {
+        background:#0053a1 url(window_bg.gif) 0px 0px repeat-x;
+        border:1px black solid;
+		padding:5px 5px 5px 50px;
+		
+		font-family: Helvetica,Arial,sans-serif;
+	
+		font-style: normal;
+		
+		font-variant: normal;
+		
+		font-weight: normal;
+		
+		font-size: 12px;
+		
+		line-height: normal;
+		
+		font-size-adjust: none;
+		
+		font-stretch: normal;
+		
+		color: #FFF;
+		
+      }
+	  
+	  .estyle7 a:link, .estyle7 a:visited, .estyle7 a:hover, .estyle7 a:active{
+	  color:#68abd9;}
+	  
+	  
+      .estyle2 {
+        background-color:#ffffff;
+        border:10px black solid;
+        padding: 0px;
+      }
+	  
+	  
+      .estyle4 {
+        background-color:#ffffff;
+        border:10px black double;
+        padding: 10px;
+      }
+      .estyle5 {
+        background-color:#ffffff;
+        border-bottom:3px black solid;
+        border-left:3px #aaaaaa solid;
+        border-top:3px #aaaaaa solid;
+        border-right:3px black solid;
+        padding: 5px;
+      }
+      .estyle6 {
+        background-color:#ffffff;
+        border:2px black solid;
+      }

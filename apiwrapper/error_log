@@ -1,0 +1,2 @@
+[11-Jan-2013 03:20:15] PHP Fatal error:  Wrong parameters for Exception([string $exception [, long $code ]]) in /home/navigato/public_html/apiwrapper/Bluga/Webthumb.php on line 245
+[11-Jan-2013 04:27:10] PHP Fatal error:  Wrong parameters for Exception([string $exception [, long $code ]]) in /home/navigato/public_html/apiwrapper/Bluga/Webthumb.php on line 245

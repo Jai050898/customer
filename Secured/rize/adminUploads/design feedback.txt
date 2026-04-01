@@ -1,0 +1,52 @@
+The arrows at the top of the page, all start off white. Then the one closest to the logo would go red, the next one would go red, then the last one closest to the phone number would go red.
+no movement
+that is flashing in sequence towards the phone number (as instructions imply) "flash in sequence"
+
+----------------
+
+Next item. The red checkmark and the text right of it. Should both be black to start. When cursor rolls over it, then checkmark checks box and text goes red. The only reason it's red right now is to show example. That's why I did the explaination overlay
+
+---------------
+
+when you roll over the quick start, it should drop to the lady with arms up
+
+when you roll over strategic advantages it should drop to the other section with teh guy pointing to the right
+
+--------------
+
+and when you roll over each of them (the quick start or strategic) it would show red checkmark and the text would go red. 
+
+---------------
+
+ The website, email, social media, search engines, untapped, text looks terrible (wouldn't you agree?)
+I don't mind if that is image, but it needs to look clean.
+
+----------------
+
+The image of the websites. In the master psd file, there are different folders (layers) that have different images for each scrolling element. So email would have something different, the social media would have somthing differnt, etc. These should auto-jump from website, to email, to social media, to search engines, to UNTAPPED one by one after about 5 seconds. Then if someone clicks on teh button above, it will take back to that image as long as rolled over. CAn you see the idea here? The goal?
+
+The bracket right and left of the images should scroll that direction, either forward or backward
+
+-----------------
+
+ teh testimonial text looks horirble. They should have chosen a different font. The call now, looks terrible. I would rather have had it as graphic, also the phone number as well, and the expiration of specials text. The expiration of specials and the days hours etc, and 000's all are off-centered. 
+
+It looks like they started to get the idea of the arrows, but the arrows look terrible. They were sliced funny. and they move way too fast, hurts the eyes
+
+The bottom text beneath the 000's loks terrible font. The Limited Time OFFER loks ok, but it should be smoother on the edges. I'm almost wondering if they didn't have the right font when slicing it. for this.
+
+------------------
+
+see the little pdf icon?
+
+The master file has a roll over for that icon, so when you roll over it , it then pops up. and when I get it I will set it up for downloading a pdf
+
+-----------------
+
+The last item, the 000's are supposed to drop a cookie or someting on your ocmputer the first time you see this page, and the days and hours should count down from that first visit as incentive to hurry you up and call or email, , fill out form, etc.
+
+The reason I sent the code for wibiya is to replace the footer image, placement of the sample (right now it's an image instead of code inserted to make it work right)
+
+-------------------
+
+one other item, I need the pages setup for php, not html

@@ -1,0 +1,43 @@
+[19-Nov-2012 07:39:41] PHP Warning:  Smarty error: unable to read resource: "login.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 07:39:57] PHP Fatal error:  Smarty error: the $compile_dir 'templates_c/' does not exist, or is not a directory. in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:21:20] PHP Warning:  Smarty error: unable to read resource: "myaccount.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:32:43] PHP Warning:  require(blog/wp-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/navigato/public_html/FD/logout.php on line 6
+[19-Nov-2012 08:32:43] PHP Warning:  require(blog/wp-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/navigato/public_html/FD/logout.php on line 6
+[19-Nov-2012 08:32:43] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'blog/wp-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/navigato/public_html/FD/logout.php on line 6
+[19-Nov-2012 08:41:43] PHP Fatal error:  Smarty error: [in edit-profile.tpl line 99]: syntax error: unrecognized tag: $("#opening_date").datepicker(); (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:41:46] PHP Fatal error:  Smarty error: [in edit-profile.tpl line 99]: syntax error: unrecognized tag: $("#opening_date").datepicker(); (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:41:50] PHP Fatal error:  Smarty error: [in edit-profile.tpl line 99]: syntax error: unrecognized tag: $("#opening_date").datepicker(); (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:42:25] PHP Fatal error:  Smarty error: [in edit-profile.tpl line 100]: syntax error: unrecognized tag: $("#opening_date").datepicker(); (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:42:28] PHP Fatal error:  Smarty error: [in edit-profile.tpl line 100]: syntax error: unrecognized tag: $("#opening_date").datepicker(); (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[19-Nov-2012 08:48:31] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/change-password.php on line 17
+[19-Nov-2012 08:48:34] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/change-password.php on line 17
+[19-Nov-2012 08:49:07] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/change-password.php on line 17
+[19-Nov-2012 08:49:09] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/change-password.php on line 17
+[19-Nov-2012 08:49:39] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/change-password.php on line 17
+[21-Nov-2012 00:21:45] PHP Warning:  Smarty error: unable to read resource: "annual-settings.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[21-Nov-2012 00:58:46] PHP Fatal error:  Call to a member function TotalRows() on a non-object in /home/navigato/public_html/FD/annual-settings.php on line 8
+[21-Nov-2012 02:40:50] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:40:51] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:40:53] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:40:54] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:40:54] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:40:55] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:44:31] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 02:53:01] PHP Parse error:  syntax error, unexpected '<' in /home/navigato/public_html/FD/templates_c/%%92^92A^92AD6947%%daily-sales.tpl.php on line 92
+[21-Nov-2012 03:13:13] PHP Fatal error:  Smarty error: [in daily-sales.tpl line 65]: syntax error: unrecognized tag 'inarray' (Smarty_Compiler.class.php, line 590) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[21-Nov-2012 03:21:30] PHP Fatal error:  Using $this when not in object context in /home/navigato/public_html/FD/daily-sales.php on line 38
+[21-Nov-2012 03:21:33] PHP Fatal error:  Using $this when not in object context in /home/navigato/public_html/FD/daily-sales.php on line 38
+[21-Nov-2012 04:25:17] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/monthly-sales.php on line 38
+[21-Nov-2012 04:25:20] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/monthly-sales.php on line 38
+[21-Nov-2012 04:26:38] PHP Parse error:  syntax error, unexpected ')' in /home/navigato/public_html/FD/monthly-sales.php on line 38
+[21-Nov-2012 06:09:58] PHP Warning:  Smarty error: unable to read resource: "annual-sales.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 01:33:20] PHP Warning:  Smarty error: unable to read resource: "monthlyform.tpl" in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:57:59] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: `$item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:01] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: `$item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:33] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:35] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:37] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:38] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:38] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day`-`$item.month`-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:58:59] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day"-"$item.month"-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093
+[22-Nov-2012 04:59:01] PHP Fatal error:  Smarty error: [in list-daily-sales.tpl line 25]: syntax error: unrecognized tag: $item.day"-"$item.month"-2012"|date_format:"%A" (Smarty_Compiler.class.php, line 446) in /home/navigato/public_html/FD/libs/Smarty.class.php on line 1093

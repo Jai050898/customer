@@ -1,0 +1,345 @@
+.custom {
+
+  background: #f7f4ef url('../images/bg.jpg') top center no-repeat;
+
+  color: #000000;
+
+}
+
+.custom #container {
+
+  width: 920px;
+
+}
+
+.custom #page {
+
+  background: none;
+
+}
+
+
+
+
+
+.custom #header {
+
+  height:299px;
+
+  overflow: hidden;
+
+  padding: 0 0 0 0;
+
+}
+
+.custom #headerimage, .custom #leaderboard_logo {
+
+  display: none;
+
+}
+
+.custom #logo {
+
+  position: absolute;
+
+  width: 426px;
+
+  height: 49px;
+
+  margin: 35px 0 0 180px;
+
+}
+
+.custom #tagline {
+
+  position: absolute;
+
+  text-indent: -999em;
+
+  width: 426px;
+
+  height: 49px;
+
+  margin: 85px 0 0 180px;
+
+  background: url('../images/strap.gif');
+
+}
+
+.custom .menu {
+
+  position: absolute;
+
+  height: 40px;
+
+  margin: 260px 0 0 225px;
+
+  width: 445px;
+
+}
+
+.custom .menu li a {
+
+background:none repeat scroll 0 0 #EFAA23;
+
+color:#000000;
+
+font-size:14px;
+
+font-weight:bold;
+
+margin-right:2px;
+
+padding:10px 10px;
+
+text-transform:none;
+
+letter-spacing: inherit;
+
+}
+
+.custom #leaderboard_ad {
+
+float:right;
+
+margin-left:432px;
+
+position:absolute;
+
+top:238px;
+
+width:468px;
+
+}
+
+#s {
+
+background:none repeat scroll 0 0 #FFFFFF;
+
+border:1px solid #FFFFFF;
+
+color:#000000;
+
+float:right;
+
+font-family:"Arial";
+
+font-size:6pt;
+
+height:10px;
+
+letter-spacing:1px;
+
+margin:-208px 0 0 10px;
+
+*margin:-247px 0 0 375px;
+
+_margin:-247px 0 0 375px;
+
+padding:0.6em;
+
+position:absolute;
+
+text-transform:uppercase;
+
+width:200px;
+
+}
+
+
+
+.custom #content_box {
+
+  padding:20px;
+
+  width:880px;
+
+  background: #fff url('../images/bg-container.gif') top center no-repeat;
+
+}
+
+.custom #content {
+
+  width: 870px; 
+
+  padding-right: 5px;
+
+}
+
+
+
+
+
+.custom .headline_meta,
+
+.custom .headline_meta a,
+
+.custom .teaser_author,
+
+.custom .teaser_date,
+
+.custom .teaser
+
+.custom .edit_post,
+
+.custom .teaser_author a,
+
+.custom .teaser_comments,
+
+.custom .teaser_category,
+
+.custom .teaser .edit_post a {
+
+  color:#809b45;
+
+  font-weight: bold;
+
+  text-transform: uppercase;
+
+  font-size: 13px;
+
+}
+
+
+
+.custom .headline_area  {
+
+border-bottom:1px solid #DFE0E1;
+
+margin-bottom:15px;
+
+margin-bottom:2.2em;
+
+padding-bottom:5px;
+
+}
+
+.custom .format_text  {
+
+  border-bottom: 1px dotted #646464;
+
+  margin-bottom:20px;
+
+}
+
+
+
+.custom .teasers_box {
+
+  width: 560px;
+
+  }
+
+.custom .teaser {
+
+  width:250px;
+
+}
+
+
+
+
+
+
+
+.custom #sidebars {
+
+  width: 265px;
+
+  color: #14557a;
+
+}
+
+.custom #multimedia_box {
+
+  text-align: center;
+
+  padding-top: 20px;
+
+  background: #dddad6;
+
+}
+
+.custom #sidebars a {
+
+  color: #809b45;
+
+  font-weight: bold;
+
+  }
+
+
+
+.custom div.adblock img {
+
+  padding: 0px;
+
+  background-color: #FFFFFF;
+
+  display: inline;
+
+border: 1px solid #000000;
+
+}
+
+.custom .cenx {text-align: center;}
+
+
+
+
+
+.custom #footer {
+
+  background:none repeat scroll 0 0 #222222;
+
+  padding:30px;
+
+  text-align: right;
+
+  font-size: 11px;
+
+}
+
+.custom .footer_items {
+
+  float: left;
+
+  width: 25%;
+
+  text-align: left;
+
+}
+
+.custom .footer_items li {
+
+  list-style: none;
+
+  margin: 3px 0;
+
+}
+
+.custom #footer p {
+
+  clear: both;
+
+  padding: 20px 0 10px 0;
+
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+/* Ad in Header - relative */
+
+.custom #leaderboard_ad { 
+
+ float: right;
+
+position: relative;
+
+width: 468px;
