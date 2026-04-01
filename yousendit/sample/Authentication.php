@@ -11,8 +11,9 @@
 * governing permissions and limitations.
 *********************************************************************************************/
 
-require_once(SITEPATH. '/include/RestTransport.php');
-require_once(SITEPATH.'/include/ResponseEntities.php');
+require_once(SITEPATH . '/yousendit/sample/include/RestTransport.php');
+require_once(SITEPATH . '/yousendit/sample/include/ResponseEntities.php');
+
 
 
 
