@@ -10,10 +10,8 @@ if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on')
 else
     $http = "http://";
 $root = $_SERVER['DOCUMENT_ROOT'];
-	define('SITEPATH',"/home/automark/public_html/customer");
-	//define('SITEURL', 'http://'.$_SERVER['SERVER_NAME'].'/~demoweb/rsvp'); 
-	//define('SITEPATH',$root);
-	define('SITEURL', $http.$_SERVER['SERVER_NAME'].'/customer'); 
+define('SITEPATH', "/var/www/html");
+define('SITEURL', $http.$_SERVER['SERVER_NAME']);
 
 //require_once("recaptchalib.php");
 define('SITENAME','programmer');
