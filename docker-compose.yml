@@ -13,8 +13,8 @@ services:
       DB_PASSWORD: m#184DCuL~6e
       DB_NAME: automark_mm_cust
       SITEPATH: /var/www/html
-      SITEURL: http://localhost:8080
-      MAINSITEURL: http://localhost
+      SITEURL: http://143.244.167.57:8080
+      MAINSITEURL: http://143.244.167.57
     depends_on:
       - db
 
