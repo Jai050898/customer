@@ -6,4 +6,4 @@ $dbArray = array(
     "Pass"   => getenv('DB_PASSWORD') ? getenv('DB_PASSWORD') : "rootpwd",
     "dbName" => getenv('DB_DATABASE') ? getenv('DB_DATABASE') : "automark_mm_cust"
 );
-?>
+?> 
