@@ -10,8 +10,8 @@ if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on')
 else
     $http = "http://";
 $root = $_SERVER['DOCUMENT_ROOT'];
-define('SITEPATH', "/var/www/html");
-define('SITEURL', $http.$_SERVER['SERVER_NAME']);
+$siteUrl = getenv('SITEURL') ? getenv('SITEURL') : ($http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
+$mainSiteUrl = getenv('MAINSITEURL') ? getenv('MAINSITEURL') : ($http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
 
 //require_once("recaptchalib.php");
 define('SITENAME','programmer');
