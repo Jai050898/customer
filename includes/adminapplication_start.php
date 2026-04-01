@@ -9,28 +9,11 @@ if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on')
     $http = "https://";
 else
     $http = "http://";
-
 $root = $_SERVER['DOCUMENT_ROOT'];
 
-// ✅ PHP 5.6 Compatible
-$serverName = isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost';
-
-if (getenv('SITEURL')) {
-    $siteUrl = getenv('SITEURL');
-} else {
-    $siteUrl = $http . $serverName;
-}
-
-if (getenv('MAINSITEURL')) {
-    $mainSiteUrl = getenv('MAINSITEURL');
-} else {
-    $mainSiteUrl = $http . $serverName;
-}
-
-// ✅ These were MISSING — added now!
+// ✅ Fixed for Docker + PHP 5.6
 define('SITEPATH', '/var/www/html');
-define('SITEURL', rtrim($siteUrl, '/'));
-define('MAINSITEURL', rtrim($mainSiteUrl, '/'));
+define('SITEURL', $http . (isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : 'localhost'));
 
 //require_once("recaptchalib.php");
 define('SITENAME','programmer');
