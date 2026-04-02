@@ -1,4 +1,4 @@
-{include file=header.tpl}
+{include file="header.tpl"}
 <link type="text/css" rel="stylesheet" href="{$siteurl}/css/date.css" />
 <div id="body">
 	<div class="bodybg" style="min-height:475px;">

@@ -1,4 +1,4 @@
-{include file=header.tpl}
+{include file="header.tpl"}
 <link href="{$siteurl}/css/thickbox.css" rel="stylesheet" type="text/css">
 <!--body-->
 <div id="body">

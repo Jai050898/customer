@@ -1,4 +1,4 @@
-{include file=header.tpl}
+{include file="header.tpl"}
 <div id="body">
 	<div class="bodybg" style="min-height:475px;">
             <div class="bodyleft">

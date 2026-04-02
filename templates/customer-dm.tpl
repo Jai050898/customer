@@ -1,4 +1,4 @@
-{include file=header.tpl}
+{include file="header.tpl"}
 <link type="text/css" rel="stylesheet" href="{$siteurl}/css/date.css" />
 <link rel="stylesheet" type="text/css" href="https://www.autorepairmarketing.com/customer/js/ewindows/ewindow.css" media="screen" />
 <!-- <script src="https://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyBA70BPN-qDJy3gBtrL_qi_uW88oxcXE1s" type="text/javascript"></script> -->
