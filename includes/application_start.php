@@ -20,13 +20,15 @@ if (getenv('SITEPATH')) {
 }
 
 // Fix SERVER_NAME
-if (isset($_SERVER['HTTP_HOST'])) {
-    $serverName = $_SERVER['HTTP_HOST'];
-} elseif (isset($_SERVER['SERVER_NAME'])) {
-    $serverName = $_SERVER['SERVER_NAME'];
-} else {
-    $serverName = 'localhost';
-}
+// if (isset($_SERVER['HTTP_HOST'])) {
+//     $serverName = $_SERVER['HTTP_HOST'];
+// } elseif (isset($_SERVER['SERVER_NAME'])) {
+//     $serverName = $_SERVER['SERVER_NAME'];
+// } else {
+//     $serverName = 'localhost';
+// }
+$serverName = '143.244.167.57:8080';
+$http = "http://";
 
 // Fix SITEURL
 if (getenv('SITEURL')) {
