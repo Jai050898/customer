@@ -59,7 +59,7 @@
                 </form>
                 <div class="clear"></div>
             </div>
-            { include file="rightbar.tpl" }
+            {include file="rightbar.tpl"}
             <div class="clear"></div>
 	</div>
 </div>
