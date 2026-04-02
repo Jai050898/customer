@@ -56,7 +56,7 @@
                     <li><a href="{$siteurl}/upload-admin-files.php"><span>Upload Large Files</span></a></li>
 		</ul>
 	</li>
-        <li><a href="javascript:void(0);" {if $Page eq 'customers'}  class="active"{/if}><span>Business</span></a>
+        <li><a href="javascript:void(0);" {if $Page eq 'customers'}  class="active"{/if}><span>Business Update</span></a>
 		<ul>
                     <li><a href="javascript:void(0);"><span  class="drop-down-arrow-inner">Customers</span></a>
                         <ul>
