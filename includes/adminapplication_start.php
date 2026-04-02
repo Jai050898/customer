@@ -13,14 +13,16 @@ if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') {
 $root = $_SERVER['DOCUMENT_ROOT'];
 
 // Compatible with old PHP
-if (isset($_SERVER['HTTP_HOST'])) {
-    $serverName = $_SERVER['HTTP_HOST'];
-} elseif (isset($_SERVER['SERVER_NAME'])) {
-    $serverName = $_SERVER['SERVER_NAME'];
-} else {
-    $serverName = 'localhost';
-}
- 
+// if (isset($_SERVER['HTTP_HOST'])) {
+//     $serverName = $_SERVER['HTTP_HOST'];
+// } elseif (isset($_SERVER['SERVER_NAME'])) {
+//     $serverName = $_SERVER['SERVER_NAME'];
+// } else {
+//     $serverName = 'localhost';
+// }
+$serverName = '143.244.167.57:8080';
+$http = "http://";
+
 define('SITEPATH', '/var/www/html');
 define('SITEURL', $http . $serverName);
 
